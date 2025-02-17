@@ -1,0 +1,1121 @@
+Starting cloud simulation...
+Initialising...
+Starting CloudSim version 3.0
+My_Datacenter is starting...
+Entities started.
+0.1: My_Broker: VM #0 has been created in Datacenter #2
+0.1: My_Broker: VM #1 has been created in Datacenter #2
+0.1: My_Broker: VM #2 has been created in Datacenter #2
+0.1: My_Broker: VM #3 has been created in Datacenter #2
+0.1: My_Broker: VM #4 has been created in Datacenter #2
+0.1: My_Broker: VM #5 has been created in Datacenter #2
+0.1: My_Broker: VM #6 has been created in Datacenter #2
+0.1: My_Broker: VM #7 has been created in Datacenter #2
+0.1: My_Broker: VM #8 has been created in Datacenter #2
+0.1: My_Broker: VM #9 has been created in Datacenter #2
+0.1: My_Broker: VM #10 has been created in Datacenter #2
+0.1: My_Broker: VM #11 has been created in Datacenter #2
+0.1: scheduling => ID00049, ID00048, ID00047, ID00042, ID00041, ID00040, ID00046, ID00045, ID00044, ID00043, ID00039, ID00038, ID00037, ID00036, ID00031, ID00030, ID00035, ID00034, ID00033, ID00032, ID00028, ID00027, ID00026, ID00025, ID00029, ID00020, ID00024, ID00023, ID00022, ID00021, ID00017, ID00016, ID00015, ID00014, ID00019, ID00018, ID00013, ID00012, ID00011, ID00010, ID00081, ID00080, ID00071, ID00070, ID00075, ID00074, ID00073, ID00072, ID00079, ID00078, ID00077, ID00076, ID00060, ID00069, ID00064, ID00063, ID00062, ID00061, ID00068, ID00067, ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000
+0.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+0.1: cloudlet #49 will execute on vm #8
+0.1: cloudlet #48 will execute on vm #9
+0.1: cloudlet #47 will execute on vm #10
+0.1: cloudlet #42 will execute on vm #11
+0.1: cloudlet #41 will execute on vm #4
+0.1: cloudlet #40 will execute on vm #5
+0.1: cloudlet #46 will execute on vm #6
+0.1: cloudlet #45 will execute on vm #7
+0.1: cloudlet #44 will execute on vm #0
+0.1: cloudlet #43 will execute on vm #1
+0.1: cloudlet #39 will execute on vm #2
+0.1: cloudlet #38 will execute on vm #3
+8.31875: My_Broker: Cloudlet 48 is received (start: 0.1, end: 8.31875, length: 13150). Executed on VM #9 - 1 cloudlets executed.
+8.428749999999999: My_Broker: Cloudlet 47 is received (start: 0.1, end: 8.428749999999999, length: 13190). Executed on VM #10 - 2 cloudlets executed.
+8.428749999999999: My_Broker: Cloudlet 42 is received (start: 0.1, end: 8.428749999999999, length: 13290). Executed on VM #11 - 3 cloudlets executed.
+8.725: My_Broker: Cloudlet 49 is received (start: 0.1, end: 8.725, length: 13800). Executed on VM #8 - 4 cloudlets executed.
+11.008333333333333: My_Broker: Cloudlet 41 is received (start: 0.1, end: 11.008333333333333, length: 13090). Executed on VM #4 - 5 cloudlets executed.
+11.325: My_Broker: Cloudlet 40 is received (start: 0.1, end: 11.325, length: 13470). Executed on VM #5 - 6 cloudlets executed.
+11.483333333333333: My_Broker: Cloudlet 46 is received (start: 0.1, end: 11.483333333333333, length: 13660). Executed on VM #6 - 7 cloudlets executed.
+11.608333333333333: My_Broker: Cloudlet 45 is received (start: 0.1, end: 11.608333333333333, length: 13810). Executed on VM #7 - 8 cloudlets executed.
+16.887083333333333: My_Broker: Cloudlet 38 is received (start: 0.1, end: 16.887083333333333, length: 13430). Executed on VM #3 - 9 cloudlets executed.
+16.997083333333336: My_Broker: Cloudlet 44 is received (start: 0.1, end: 16.997083333333336, length: 13500). Executed on VM #0 - 10 cloudlets executed.
+16.997083333333336: My_Broker: Cloudlet 43 is received (start: 0.1, end: 16.997083333333336, length: 13440). Executed on VM #1 - 11 cloudlets executed.
+17.374583333333337: My_Broker: Cloudlet 39 is received (start: 0.1, end: 17.374583333333337, length: 13820). Executed on VM #2 - 12 cloudlets executed.
+600.1: scheduling => ID00037, ID00036, ID00031, ID00030, ID00035, ID00034, ID00033, ID00032, ID00028, ID00027, ID00026, ID00025, ID00029, ID00020, ID00024, ID00023, ID00022, ID00021, ID00017, ID00016, ID00015, ID00014, ID00019, ID00018, ID00013, ID00012, ID00011, ID00010, ID00081, ID00080, ID00071, ID00070, ID00075, ID00074, ID00073, ID00072, ID00079, ID00078, ID00077, ID00076, ID00060, ID00069, ID00064, ID00063, ID00062, ID00061, ID00068, ID00067, ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278
+600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+600.1: cloudlet #37 will execute on vm #8
+600.1: cloudlet #36 will execute on vm #9
+600.1: cloudlet #31 will execute on vm #10
+600.1: cloudlet #30 will execute on vm #11
+600.1: cloudlet #35 will execute on vm #4
+600.1: cloudlet #34 will execute on vm #5
+600.1: cloudlet #33 will execute on vm #6
+600.1: cloudlet #32 will execute on vm #7
+600.1: cloudlet #28 will execute on vm #0
+600.1: cloudlet #27 will execute on vm #1
+600.1: cloudlet #26 will execute on vm #2
+600.1: cloudlet #25 will execute on vm #3
+608.35: My_Broker: Cloudlet 37 is received (start: 600.1, end: 608.35, length: 13200). Executed on VM #8 - 13 cloudlets executed.
+608.46: My_Broker: Cloudlet 36 is received (start: 600.1, end: 608.46, length: 13260). Executed on VM #9 - 14 cloudlets executed.
+608.46: My_Broker: Cloudlet 31 is received (start: 600.1, end: 608.46, length: 13360). Executed on VM #10 - 15 cloudlets executed.
+608.57: My_Broker: Cloudlet 30 is received (start: 600.1, end: 608.57, length: 13510). Executed on VM #11 - 16 cloudlets executed.
+611.4916666666667: My_Broker: Cloudlet 33 is received (start: 600.1, end: 611.4916666666667, length: 13670). Executed on VM #6 - 17 cloudlets executed.
+611.65: My_Broker: Cloudlet 32 is received (start: 600.1, end: 611.65, length: 13860). Executed on VM #7 - 18 cloudlets executed.
+611.76: My_Broker: Cloudlet 35 is received (start: 600.1, end: 611.76, length: 13890). Executed on VM #4 - 19 cloudlets executed.
+611.76: My_Broker: Cloudlet 34 is received (start: 600.1, end: 611.76, length: 13980). Executed on VM #5 - 20 cloudlets executed.
+616.5: My_Broker: Cloudlet 28 is received (start: 600.1, end: 616.5, length: 13120). Executed on VM #0 - 21 cloudlets executed.
+616.7875: My_Broker: Cloudlet 26 is received (start: 600.1, end: 616.7875, length: 13350). Executed on VM #2 - 22 cloudlets executed.
+616.8975: My_Broker: Cloudlet 25 is received (start: 600.1, end: 616.8975, length: 13400). Executed on VM #3 - 23 cloudlets executed.
+617.5: My_Broker: Cloudlet 27 is received (start: 600.1, end: 617.5, length: 13920). Executed on VM #1 - 24 cloudlets executed.
+1200.1: scheduling => ID00029, ID00020, ID00024, ID00023, ID00022, ID00021, ID00017, ID00016, ID00015, ID00014, ID00019, ID00018, ID00013, ID00012, ID00011, ID00010, ID00081, ID00080, ID00071, ID00070, ID00075, ID00074, ID00073, ID00072, ID00079, ID00078, ID00077, ID00076, ID00060, ID00069, ID00064, ID00063, ID00062, ID00061, ID00068, ID00067, ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277
+1200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+1200.1: cloudlet #29 will execute on vm #8
+1200.1: cloudlet #20 will execute on vm #9
+1200.1: cloudlet #24 will execute on vm #10
+1200.1: cloudlet #23 will execute on vm #11
+1200.1: cloudlet #22 will execute on vm #4
+1200.1: cloudlet #21 will execute on vm #5
+1200.1: cloudlet #17 will execute on vm #6
+1200.1: cloudlet #16 will execute on vm #7
+1200.1: cloudlet #15 will execute on vm #0
+1200.1: cloudlet #14 will execute on vm #1
+1200.1: cloudlet #19 will execute on vm #2
+1200.1: cloudlet #18 will execute on vm #3
+1208.63125: My_Broker: Cloudlet 23 is received (start: 1200.1, end: 1208.63125, length: 13650). Executed on VM #11 - 25 cloudlets executed.
+1208.7412499999998: My_Broker: Cloudlet 29 is received (start: 1200.1, end: 1208.7412499999998, length: 13720). Executed on VM #8 - 26 cloudlets executed.
+1208.7412499999998: My_Broker: Cloudlet 24 is received (start: 1200.1, end: 1208.7412499999998, length: 13670). Executed on VM #10 - 27 cloudlets executed.
+1208.8512499999997: My_Broker: Cloudlet 20 is received (start: 1200.1, end: 1208.8512499999997, length: 13840). Executed on VM #9 - 28 cloudlets executed.
+1211.024583333333: My_Broker: Cloudlet 16 is received (start: 1200.1, end: 1211.024583333333, length: 13110). Executed on VM #7 - 29 cloudlets executed.
+1211.3079166666664: My_Broker: Cloudlet 22 is received (start: 1200.1, end: 1211.3079166666664, length: 13450). Executed on VM #4 - 30 cloudlets executed.
+1211.4179166666663: My_Broker: Cloudlet 21 is received (start: 1200.1, end: 1211.4179166666663, length: 13560). Executed on VM #5 - 31 cloudlets executed.
+1211.7662499999997: My_Broker: Cloudlet 17 is received (start: 1200.1, end: 1211.7662499999997, length: 14000). Executed on VM #6 - 32 cloudlets executed.
+1217.0249999999996: My_Broker: Cloudlet 19 is received (start: 1200.1, end: 1217.0249999999996, length: 13540). Executed on VM #2 - 33 cloudlets executed.
+1217.2499999999995: My_Broker: Cloudlet 18 is received (start: 1200.1, end: 1217.2499999999995, length: 13720). Executed on VM #3 - 34 cloudlets executed.
+1217.3599999999994: My_Broker: Cloudlet 14 is received (start: 1200.1, end: 1217.3599999999994, length: 13780). Executed on VM #1 - 35 cloudlets executed.
+1217.7124999999994: My_Broker: Cloudlet 15 is received (start: 1200.1, end: 1217.7124999999994, length: 14090). Executed on VM #0 - 36 cloudlets executed.
+1800.1: scheduling => ID00013, ID00012, ID00011, ID00010, ID00081, ID00080, ID00071, ID00070, ID00075, ID00074, ID00073, ID00072, ID00079, ID00078, ID00077, ID00076, ID00060, ID00069, ID00064, ID00063, ID00062, ID00061, ID00068, ID00067, ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155
+1800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+1800.1: cloudlet #13 will execute on vm #8
+1800.1: cloudlet #12 will execute on vm #9
+1800.1: cloudlet #11 will execute on vm #10
+1800.1: cloudlet #10 will execute on vm #11
+1800.1: cloudlet #81 will execute on vm #4
+1800.1: cloudlet #80 will execute on vm #5
+1800.1: cloudlet #71 will execute on vm #6
+1800.1: cloudlet #70 will execute on vm #7
+1800.1: cloudlet #75 will execute on vm #0
+1800.1: cloudlet #74 will execute on vm #1
+1800.1: cloudlet #73 will execute on vm #2
+1800.1: cloudlet #72 will execute on vm #3
+1808.4125: My_Broker: Cloudlet 12 is received (start: 1800.1, end: 1808.4125, length: 13300). Executed on VM #9 - 37 cloudlets executed.
+1808.5224999999998: My_Broker: Cloudlet 11 is received (start: 1800.1, end: 1808.5224999999998, length: 13420). Executed on VM #10 - 38 cloudlets executed.
+1808.7312499999998: My_Broker: Cloudlet 10 is received (start: 1800.1, end: 1808.7312499999998, length: 13810). Executed on VM #11 - 39 cloudlets executed.
+1808.8412499999997: My_Broker: Cloudlet 13 is received (start: 1800.1, end: 1808.8412499999997, length: 13950). Executed on VM #8 - 40 cloudlets executed.
+1811.274583333333: My_Broker: Cloudlet 80 is received (start: 1800.1, end: 1811.274583333333, length: 13410). Executed on VM #5 - 41 cloudlets executed.
+1811.384583333333: My_Broker: Cloudlet 81 is received (start: 1800.1, end: 1811.384583333333, length: 13510). Executed on VM #4 - 42 cloudlets executed.
+1811.494583333333: My_Broker: Cloudlet 71 is received (start: 1800.1, end: 1811.494583333333, length: 13550). Executed on VM #6 - 43 cloudlets executed.
+1811.6045833333328: My_Broker: Cloudlet 70 is received (start: 1800.1, end: 1811.6045833333328, length: 13690). Executed on VM #7 - 44 cloudlets executed.
+1816.7745833333329: My_Broker: Cloudlet 74 is received (start: 1800.1, end: 1816.7745833333329, length: 13340). Executed on VM #1 - 45 cloudlets executed.
+1816.987083333333: My_Broker: Cloudlet 72 is received (start: 1800.1, end: 1816.987083333333, length: 13510). Executed on VM #3 - 46 cloudlets executed.
+1817.0970833333329: My_Broker: Cloudlet 73 is received (start: 1800.1, end: 1817.0970833333329, length: 13540). Executed on VM #2 - 47 cloudlets executed.
+1817.349583333333: My_Broker: Cloudlet 75 is received (start: 1800.1, end: 1817.349583333333, length: 13800). Executed on VM #0 - 48 cloudlets executed.
+2400.1: scheduling => ID00079, ID00078, ID00077, ID00076, ID00060, ID00069, ID00064, ID00063, ID00062, ID00061, ID00068, ID00067, ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393
+2400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+2400.1: cloudlet #79 will execute on vm #8
+2400.1: cloudlet #78 will execute on vm #9
+2400.1: cloudlet #77 will execute on vm #10
+2400.1: cloudlet #76 will execute on vm #11
+2400.1: cloudlet #60 will execute on vm #4
+2400.1: cloudlet #69 will execute on vm #5
+2400.1: cloudlet #64 will execute on vm #6
+2400.1: cloudlet #63 will execute on vm #7
+2400.1: cloudlet #62 will execute on vm #0
+2400.1: cloudlet #61 will execute on vm #1
+2400.1: cloudlet #68 will execute on vm #2
+2400.1: cloudlet #67 will execute on vm #3
+2408.6625: My_Broker: Cloudlet 77 is received (start: 2400.1, end: 2408.6625, length: 13700). Executed on VM #10 - 49 cloudlets executed.
+2408.7725: My_Broker: Cloudlet 79 is received (start: 2400.1, end: 2408.7725, length: 13750). Executed on VM #8 - 50 cloudlets executed.
+2408.7725: My_Broker: Cloudlet 78 is received (start: 2400.1, end: 2408.7725, length: 13740). Executed on VM #9 - 51 cloudlets executed.
+2408.7725: My_Broker: Cloudlet 76 is received (start: 2400.1, end: 2408.7725, length: 13750). Executed on VM #11 - 52 cloudlets executed.
+2411.35: My_Broker: Cloudlet 60 is received (start: 2400.1, end: 2411.35, length: 13500). Executed on VM #4 - 53 cloudlets executed.
+2411.46: My_Broker: Cloudlet 63 is received (start: 2400.1, end: 2411.46, length: 13610). Executed on VM #7 - 54 cloudlets executed.
+2411.57: My_Broker: Cloudlet 69 is received (start: 2400.1, end: 2411.57, length: 13750). Executed on VM #5 - 55 cloudlets executed.
+2411.8416666666667: My_Broker: Cloudlet 64 is received (start: 2400.1, end: 2411.8416666666667, length: 14090). Executed on VM #6 - 56 cloudlets executed.
+2416.5616666666665: My_Broker: Cloudlet 61 is received (start: 2400.1, end: 2416.5616666666665, length: 13170). Executed on VM #1 - 57 cloudlets executed.
+2416.8491666666664: My_Broker: Cloudlet 62 is received (start: 2400.1, end: 2416.8491666666664, length: 13400). Executed on VM #0 - 58 cloudlets executed.
+2417.2616666666663: My_Broker: Cloudlet 68 is received (start: 2400.1, end: 2417.2616666666663, length: 13730). Executed on VM #2 - 59 cloudlets executed.
+2417.3716666666664: My_Broker: Cloudlet 67 is received (start: 2400.1, end: 2417.3716666666664, length: 13790). Executed on VM #3 - 60 cloudlets executed.
+3000.1: scheduling => ID00066, ID00065, ID00059, ID00058, ID00053, ID00052, ID00051, ID00050, ID00057, ID00056, ID00055, ID00054, ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375
+3000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+3000.1: cloudlet #66 will execute on vm #8
+3000.1: cloudlet #65 will execute on vm #9
+3000.1: cloudlet #59 will execute on vm #10
+3000.1: cloudlet #58 will execute on vm #11
+3000.1: cloudlet #53 will execute on vm #4
+3000.1: cloudlet #52 will execute on vm #5
+3000.1: cloudlet #51 will execute on vm #6
+3000.1: cloudlet #50 will execute on vm #7
+3000.1: cloudlet #57 will execute on vm #0
+3000.1: cloudlet #56 will execute on vm #1
+3000.1: cloudlet #55 will execute on vm #2
+3000.1: cloudlet #54 will execute on vm #3
+3008.35: My_Broker: Cloudlet 59 is received (start: 3000.1, end: 3008.35, length: 13200). Executed on VM #10 - 61 cloudlets executed.
+3008.5125: My_Broker: Cloudlet 58 is received (start: 3000.1, end: 3008.5125, length: 13460). Executed on VM #11 - 62 cloudlets executed.
+3008.6225: My_Broker: Cloudlet 66 is received (start: 3000.1, end: 3008.6225, length: 13610). Executed on VM #8 - 63 cloudlets executed.
+3008.7325: My_Broker: Cloudlet 65 is received (start: 3000.1, end: 3008.7325, length: 13750). Executed on VM #9 - 64 cloudlets executed.
+3011.1749999999997: My_Broker: Cloudlet 51 is received (start: 3000.1, end: 3011.1749999999997, length: 13290). Executed on VM #6 - 65 cloudlets executed.
+3011.333333333333: My_Broker: Cloudlet 53 is received (start: 3000.1, end: 3011.333333333333, length: 13480). Executed on VM #4 - 66 cloudlets executed.
+3011.443333333333: My_Broker: Cloudlet 52 is received (start: 3000.1, end: 3011.443333333333, length: 13580). Executed on VM #5 - 67 cloudlets executed.
+3011.6: My_Broker: Cloudlet 50 is received (start: 3000.1, end: 3011.6, length: 13800). Executed on VM #7 - 68 cloudlets executed.
+3016.7374999999997: My_Broker: Cloudlet 57 is received (start: 3000.1, end: 3016.7374999999997, length: 13310). Executed on VM #0 - 69 cloudlets executed.
+3016.8624999999997: My_Broker: Cloudlet 55 is received (start: 3000.1, end: 3016.8624999999997, length: 13410). Executed on VM #2 - 70 cloudlets executed.
+3017.4874999999997: My_Broker: Cloudlet 54 is received (start: 3000.1, end: 3017.4874999999997, length: 13910). Executed on VM #3 - 71 cloudlets executed.
+3017.5975: My_Broker: Cloudlet 56 is received (start: 3000.1, end: 3017.5975, length: 13920). Executed on VM #1 - 72 cloudlets executed.
+3600.1: scheduling => ID00006, ID00005, ID00004, ID00003, ID00009, ID00008, ID00007, ID00002, ID00001, ID00000, ID00261, ID00290, ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324
+3600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+3600.1: cloudlet #6 will execute on vm #8
+3600.1: cloudlet #5 will execute on vm #9
+3600.1: cloudlet #4 will execute on vm #10
+3600.1: cloudlet #3 will execute on vm #11
+3600.1: cloudlet #9 will execute on vm #4
+3600.1: cloudlet #8 will execute on vm #5
+3600.1: cloudlet #7 will execute on vm #6
+3600.1: cloudlet #2 will execute on vm #7
+3600.1: cloudlet #1 will execute on vm #0
+3600.1: cloudlet #0 will execute on vm #1
+3600.1: cloudlet #261 will execute on vm #2
+3600.1: cloudlet #290 will execute on vm #3
+3608.525: My_Broker: Cloudlet 3 is received (start: 3600.1, end: 3608.525, length: 13480). Executed on VM #11 - 73 cloudlets executed.
+3608.635: My_Broker: Cloudlet 5 is received (start: 3600.1, end: 3608.635, length: 13640). Executed on VM #9 - 74 cloudlets executed.
+3608.825: My_Broker: Cloudlet 4 is received (start: 3600.1, end: 3608.825, length: 13960). Executed on VM #10 - 75 cloudlets executed.
+3608.935: My_Broker: Cloudlet 6 is received (start: 3600.1, end: 3608.935, length: 14110). Executed on VM #8 - 76 cloudlets executed.
+3611.366666666667: My_Broker: Cloudlet 7 is received (start: 3600.1, end: 3611.366666666667, length: 13520). Executed on VM #6 - 77 cloudlets executed.
+3611.476666666667: My_Broker: Cloudlet 9 is received (start: 3600.1, end: 3611.476666666667, length: 13570). Executed on VM #4 - 78 cloudlets executed.
+3611.476666666667: My_Broker: Cloudlet 8 is received (start: 3600.1, end: 3611.476666666667, length: 13570). Executed on VM #5 - 79 cloudlets executed.
+3611.476666666667: My_Broker: Cloudlet 2 is received (start: 3600.1, end: 3611.476666666667, length: 13630). Executed on VM #7 - 80 cloudlets executed.
+3613.1991666666668: My_Broker: Cloudlet 290 is received (start: 3600.1, end: 3613.1991666666668, length: 10480). Executed on VM #3 - 81 cloudlets executed.
+3613.309166666667: My_Broker: Cloudlet 261 is received (start: 3600.1, end: 3613.309166666667, length: 10490). Executed on VM #2 - 82 cloudlets executed.
+3617.061666666667: My_Broker: Cloudlet 0 is received (start: 3600.1, end: 3617.061666666667, length: 13570). Executed on VM #1 - 83 cloudlets executed.
+3617.171666666667: My_Broker: Cloudlet 1 is received (start: 3600.1, end: 3617.171666666667, length: 13640). Executed on VM #0 - 84 cloudlets executed.
+4200.1: scheduling => ID00278, ID00252, ID00242, ID00243, ID00244, ID00251, ID00218, ID00266, ID00283, ID00213, ID00214, ID00215, ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+4200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+4200.1: cloudlet #278 will execute on vm #8
+4200.1: cloudlet #252 will execute on vm #9
+4200.1: cloudlet #242 will execute on vm #10
+4200.1: cloudlet #243 will execute on vm #11
+4200.1: cloudlet #244 will execute on vm #4
+4200.1: cloudlet #251 will execute on vm #5
+4200.1: cloudlet #218 will execute on vm #6
+4200.1: cloudlet #266 will execute on vm #7
+4200.1: cloudlet #283 will execute on vm #0
+4200.1: cloudlet #213 will execute on vm #1
+4200.1: cloudlet #214 will execute on vm #2
+4200.1: cloudlet #215 will execute on vm #3
+4206.56875: My_Broker: Cloudlet 242 is received (start: 4200.1, end: 4206.56875, length: 10350). Executed on VM #10 - 85 cloudlets executed.
+4206.681250000001: My_Broker: Cloudlet 252 is received (start: 4200.1, end: 4206.681250000001, length: 10530). Executed on VM #9 - 86 cloudlets executed.
+4206.791250000001: My_Broker: Cloudlet 278 is received (start: 4200.1, end: 4206.791250000001, length: 10540). Executed on VM #8 - 87 cloudlets executed.
+4206.791250000001: My_Broker: Cloudlet 243 is received (start: 4200.1, end: 4206.791250000001, length: 10570). Executed on VM #11 - 88 cloudlets executed.
+4208.8912500000015: My_Broker: Cloudlet 251 is received (start: 4200.1, end: 4208.8912500000015, length: 10550). Executed on VM #5 - 89 cloudlets executed.
+4209.001250000002: My_Broker: Cloudlet 218 is received (start: 4200.1, end: 4209.001250000002, length: 10610). Executed on VM #6 - 90 cloudlets executed.
+4209.001250000002: My_Broker: Cloudlet 266 is received (start: 4200.1, end: 4209.001250000002, length: 10640). Executed on VM #7 - 91 cloudlets executed.
+4209.111250000003: My_Broker: Cloudlet 244 is received (start: 4200.1, end: 4209.111250000003, length: 10760). Executed on VM #4 - 92 cloudlets executed.
+4213.075000000001: My_Broker: Cloudlet 213 is received (start: 4200.1, end: 4213.075000000001, length: 10380). Executed on VM #1 - 93 cloudlets executed.
+4213.387500000001: My_Broker: Cloudlet 283 is received (start: 4200.1, end: 4213.387500000001, length: 10630). Executed on VM #0 - 94 cloudlets executed.
+4213.5: My_Broker: Cloudlet 214 is received (start: 4200.1, end: 4213.5, length: 10720). Executed on VM #2 - 95 cloudlets executed.
+4213.610000000001: My_Broker: Cloudlet 215 is received (start: 4200.1, end: 4213.610000000001, length: 10780). Executed on VM #3 - 96 cloudlets executed.
+4800.1: scheduling => ID00273, ID00288, ID00228, ID00222, ID00224, ID00250, ID00279, ID00223, ID00231, ID00232, ID00233, ID00204, ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+4800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+4800.1: cloudlet #273 will execute on vm #8
+4800.1: cloudlet #288 will execute on vm #9
+4800.1: cloudlet #228 will execute on vm #10
+4800.1: cloudlet #222 will execute on vm #11
+4800.1: cloudlet #224 will execute on vm #4
+4800.1: cloudlet #250 will execute on vm #5
+4800.1: cloudlet #279 will execute on vm #6
+4800.1: cloudlet #223 will execute on vm #7
+4800.1: cloudlet #231 will execute on vm #0
+4800.1: cloudlet #232 will execute on vm #1
+4800.1: cloudlet #233 will execute on vm #2
+4800.1: cloudlet #204 will execute on vm #3
+4806.6: My_Broker: Cloudlet 288 is received (start: 4800.1, end: 4806.6, length: 10400). Executed on VM #9 - 97 cloudlets executed.
+4806.710000000001: My_Broker: Cloudlet 222 is received (start: 4800.1, end: 4806.710000000001, length: 10530). Executed on VM #11 - 98 cloudlets executed.
+4806.8200000000015: My_Broker: Cloudlet 273 is received (start: 4800.1, end: 4806.8200000000015, length: 10660). Executed on VM #8 - 99 cloudlets executed.
+4806.930000000002: My_Broker: Cloudlet 228 is received (start: 4800.1, end: 4806.930000000002, length: 10800). Executed on VM #10 - 100 cloudlets executed.
+4808.783333333334: My_Broker: Cloudlet 279 is received (start: 4800.1, end: 4808.783333333334, length: 10420). Executed on VM #6 - 101 cloudlets executed.
+4808.893333333334: My_Broker: Cloudlet 224 is received (start: 4800.1, end: 4808.893333333334, length: 10480). Executed on VM #4 - 102 cloudlets executed.
+4809.05: My_Broker: Cloudlet 250 is received (start: 4800.1, end: 4809.05, length: 10740). Executed on VM #5 - 103 cloudlets executed.
+4809.160000000001: My_Broker: Cloudlet 223 is received (start: 4800.1, end: 4809.160000000001, length: 10760). Executed on VM #7 - 104 cloudlets executed.
+4813.2375: My_Broker: Cloudlet 232 is received (start: 4800.1, end: 4813.2375, length: 10510). Executed on VM #1 - 105 cloudlets executed.
+4813.347500000001: My_Broker: Cloudlet 233 is received (start: 4800.1, end: 4813.347500000001, length: 10570). Executed on VM #2 - 106 cloudlets executed.
+4813.457500000001: My_Broker: Cloudlet 231 is received (start: 4800.1, end: 4813.457500000001, length: 10630). Executed on VM #0 - 107 cloudlets executed.
+4813.457500000001: My_Broker: Cloudlet 204 is received (start: 4800.1, end: 4813.457500000001, length: 10630). Executed on VM #3 - 108 cloudlets executed.
+5400.1: scheduling => ID00205, ID00194, ID00195, ID00289, ID00190, ID00248, ID00200, ID00277, ID00178, ID00179, ID00180, ID00181, ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+5400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+5400.1: cloudlet #205 will execute on vm #8
+5400.1: cloudlet #194 will execute on vm #9
+5400.1: cloudlet #195 will execute on vm #10
+5400.1: cloudlet #289 will execute on vm #11
+5400.1: cloudlet #190 will execute on vm #4
+5400.1: cloudlet #248 will execute on vm #5
+5400.1: cloudlet #200 will execute on vm #6
+5400.1: cloudlet #277 will execute on vm #7
+5400.1: cloudlet #178 will execute on vm #0
+5400.1: cloudlet #179 will execute on vm #1
+5400.1: cloudlet #180 will execute on vm #2
+5400.1: cloudlet #181 will execute on vm #3
+5406.65625: My_Broker: Cloudlet 195 is received (start: 5400.1, end: 5406.65625, length: 10490). Executed on VM #10 - 109 cloudlets executed.
+5406.766250000001: My_Broker: Cloudlet 194 is received (start: 5400.1, end: 5406.766250000001, length: 10640). Executed on VM #9 - 110 cloudlets executed.
+5406.766250000001: My_Broker: Cloudlet 289 is received (start: 5400.1, end: 5406.766250000001, length: 10640). Executed on VM #11 - 111 cloudlets executed.
+5406.876250000001: My_Broker: Cloudlet 205 is received (start: 5400.1, end: 5406.876250000001, length: 10750). Executed on VM #8 - 112 cloudlets executed.
+5408.816250000001: My_Broker: Cloudlet 248 is received (start: 5400.1, end: 5408.816250000001, length: 10460). Executed on VM #5 - 113 cloudlets executed.
+5408.816250000001: My_Broker: Cloudlet 200 is received (start: 5400.1, end: 5408.816250000001, length: 10460). Executed on VM #6 - 114 cloudlets executed.
+5408.926250000001: My_Broker: Cloudlet 190 is received (start: 5400.1, end: 5408.926250000001, length: 10560). Executed on VM #4 - 115 cloudlets executed.
+5408.926250000001: My_Broker: Cloudlet 277 is received (start: 5400.1, end: 5408.926250000001, length: 10560). Executed on VM #7 - 116 cloudlets executed.
+5413.3125: My_Broker: Cloudlet 178 is received (start: 5400.1, end: 5413.3125, length: 10570). Executed on VM #0 - 117 cloudlets executed.
+5413.422500000001: My_Broker: Cloudlet 180 is received (start: 5400.1, end: 5413.422500000001, length: 10590). Executed on VM #2 - 118 cloudlets executed.
+5413.422500000001: My_Broker: Cloudlet 181 is received (start: 5400.1, end: 5413.422500000001, length: 10600). Executed on VM #3 - 119 cloudlets executed.
+5413.55: My_Broker: Cloudlet 179 is received (start: 5400.1, end: 5413.55, length: 10760). Executed on VM #1 - 120 cloudlets executed.
+6000.1: scheduling => ID00189, ID00257, ID00249, ID00272, ID00237, ID00162, ID00163, ID00164, ID00165, ID00193, ID00241, ID00174, ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+6000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+6000.1: cloudlet #189 will execute on vm #8
+6000.1: cloudlet #257 will execute on vm #9
+6000.1: cloudlet #249 will execute on vm #10
+6000.1: cloudlet #272 will execute on vm #11
+6000.1: cloudlet #237 will execute on vm #4
+6000.1: cloudlet #162 will execute on vm #5
+6000.1: cloudlet #163 will execute on vm #6
+6000.1: cloudlet #164 will execute on vm #7
+6000.1: cloudlet #165 will execute on vm #0
+6000.1: cloudlet #193 will execute on vm #1
+6000.1: cloudlet #241 will execute on vm #2
+6000.1: cloudlet #174 will execute on vm #3
+6006.6125: My_Broker: Cloudlet 257 is received (start: 6000.1, end: 6006.6125, length: 10420). Executed on VM #9 - 121 cloudlets executed.
+6006.722500000001: My_Broker: Cloudlet 189 is received (start: 6000.1, end: 6006.722500000001, length: 10580). Executed on VM #8 - 122 cloudlets executed.
+6006.722500000001: My_Broker: Cloudlet 249 is received (start: 6000.1, end: 6006.722500000001, length: 10500). Executed on VM #10 - 123 cloudlets executed.
+6006.832500000001: My_Broker: Cloudlet 272 is received (start: 6000.1, end: 6006.832500000001, length: 10690). Executed on VM #11 - 124 cloudlets executed.
+6008.808333333333: My_Broker: Cloudlet 162 is received (start: 6000.1, end: 6008.808333333333, length: 10450). Executed on VM #5 - 125 cloudlets executed.
+6008.918333333334: My_Broker: Cloudlet 237 is received (start: 6000.1, end: 6008.918333333334, length: 10490). Executed on VM #4 - 126 cloudlets executed.
+6009.028333333335: My_Broker: Cloudlet 164 is received (start: 6000.1, end: 6009.028333333335, length: 10650). Executed on VM #7 - 127 cloudlets executed.
+6009.138333333335: My_Broker: Cloudlet 163 is received (start: 6000.1, end: 6009.138333333335, length: 10720). Executed on VM #6 - 128 cloudlets executed.
+6013.224583333335: My_Broker: Cloudlet 241 is received (start: 6000.1, end: 6013.224583333335, length: 10500). Executed on VM #2 - 129 cloudlets executed.
+6013.334583333336: My_Broker: Cloudlet 165 is received (start: 6000.1, end: 6013.334583333336, length: 10520). Executed on VM #0 - 130 cloudlets executed.
+6013.444583333337: My_Broker: Cloudlet 174 is received (start: 6000.1, end: 6013.444583333337, length: 10620). Executed on VM #3 - 131 cloudlets executed.
+6013.554583333337: My_Broker: Cloudlet 193 is received (start: 6000.1, end: 6013.554583333337, length: 10720). Executed on VM #1 - 132 cloudlets executed.
+6600.1: scheduling => ID00170, ID00212, ID00150, ID00151, ID00152, ID00169, ID00221, ID00158, ID00159, ID00211, ID00217, ID00287, ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+6600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+6600.1: cloudlet #170 will execute on vm #8
+6600.1: cloudlet #212 will execute on vm #9
+6600.1: cloudlet #150 will execute on vm #10
+6600.1: cloudlet #151 will execute on vm #11
+6600.1: cloudlet #152 will execute on vm #4
+6600.1: cloudlet #169 will execute on vm #5
+6600.1: cloudlet #221 will execute on vm #6
+6600.1: cloudlet #158 will execute on vm #7
+6600.1: cloudlet #159 will execute on vm #0
+6600.1: cloudlet #211 will execute on vm #1
+6600.1: cloudlet #217 will execute on vm #2
+6600.1: cloudlet #287 will execute on vm #3
+6606.637500000001: My_Broker: Cloudlet 150 is received (start: 6600.1, end: 6606.637500000001, length: 10460). Executed on VM #10 - 133 cloudlets executed.
+6606.743750000001: My_Broker: Cloudlet 170 is received (start: 6600.1, end: 6606.743750000001, length: 10630). Executed on VM #8 - 134 cloudlets executed.
+6606.743750000001: My_Broker: Cloudlet 212 is received (start: 6600.1, end: 6606.743750000001, length: 10540). Executed on VM #9 - 135 cloudlets executed.
+6606.743750000001: My_Broker: Cloudlet 151 is received (start: 6600.1, end: 6606.743750000001, length: 10600). Executed on VM #11 - 136 cloudlets executed.
+6608.882916666667: My_Broker: Cloudlet 169 is received (start: 6600.1, end: 6608.882916666667, length: 10540). Executed on VM #5 - 137 cloudlets executed.
+6608.992916666668: My_Broker: Cloudlet 152 is received (start: 6600.1, end: 6608.992916666668, length: 10600). Executed on VM #4 - 138 cloudlets executed.
+6608.992916666668: My_Broker: Cloudlet 221 is received (start: 6600.1, end: 6608.992916666668, length: 10570). Executed on VM #6 - 139 cloudlets executed.
+6608.992916666668: My_Broker: Cloudlet 158 is received (start: 6600.1, end: 6608.992916666668, length: 10560). Executed on VM #7 - 140 cloudlets executed.
+6613.236666666668: My_Broker: Cloudlet 287 is received (start: 6600.1, end: 6613.236666666668, length: 10510). Executed on VM #3 - 141 cloudlets executed.
+6613.346666666668: My_Broker: Cloudlet 159 is received (start: 6600.1, end: 6613.346666666668, length: 10520). Executed on VM #0 - 142 cloudlets executed.
+6613.346666666668: My_Broker: Cloudlet 211 is received (start: 6600.1, end: 6613.346666666668, length: 10560). Executed on VM #1 - 143 cloudlets executed.
+6613.536666666668: My_Broker: Cloudlet 217 is received (start: 6600.1, end: 6613.536666666668, length: 10750). Executed on VM #2 - 144 cloudlets executed.
+7200.1: scheduling => ID00141, ID00142, ID00157, ID00173, ID00145, ID00146, ID00149, ID00155, ID00133, ID00134, ID00135, ID00136, ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+7200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+7200.1: cloudlet #141 will execute on vm #8
+7200.1: cloudlet #142 will execute on vm #9
+7200.1: cloudlet #157 will execute on vm #10
+7200.1: cloudlet #173 will execute on vm #11
+7200.1: cloudlet #145 will execute on vm #4
+7200.1: cloudlet #146 will execute on vm #5
+7200.1: cloudlet #149 will execute on vm #6
+7200.1: cloudlet #155 will execute on vm #7
+7200.1: cloudlet #133 will execute on vm #0
+7200.1: cloudlet #134 will execute on vm #1
+7200.1: cloudlet #135 will execute on vm #2
+7200.1: cloudlet #136 will execute on vm #3
+7206.56875: My_Broker: Cloudlet 157 is received (start: 7200.1, end: 7206.56875, length: 10350). Executed on VM #10 - 145 cloudlets executed.
+7206.675: My_Broker: Cloudlet 142 is received (start: 7200.1, end: 7206.675, length: 10520). Executed on VM #9 - 146 cloudlets executed.
+7206.8: My_Broker: Cloudlet 141 is received (start: 7200.1, end: 7206.8, length: 10720). Executed on VM #8 - 147 cloudlets executed.
+7206.910000000001: My_Broker: Cloudlet 173 is received (start: 7200.1, end: 7206.910000000001, length: 10760). Executed on VM #11 - 148 cloudlets executed.
+7208.875: My_Broker: Cloudlet 149 is received (start: 7200.1, end: 7208.875, length: 10530). Executed on VM #6 - 149 cloudlets executed.
+7208.983333333334: My_Broker: Cloudlet 145 is received (start: 7200.1, end: 7208.983333333334, length: 10640). Executed on VM #4 - 150 cloudlets executed.
+7208.983333333334: My_Broker: Cloudlet 146 is received (start: 7200.1, end: 7208.983333333334, length: 10660). Executed on VM #5 - 151 cloudlets executed.
+7208.983333333334: My_Broker: Cloudlet 155 is received (start: 7200.1, end: 7208.983333333334, length: 10560). Executed on VM #7 - 152 cloudlets executed.
+7213.249583333333: My_Broker: Cloudlet 134 is received (start: 7200.1, end: 7213.249583333333, length: 10520). Executed on VM #1 - 153 cloudlets executed.
+7213.35: My_Broker: Cloudlet 133 is received (start: 7200.1, end: 7213.35, length: 10600). Executed on VM #0 - 154 cloudlets executed.
+7213.460000000001: My_Broker: Cloudlet 136 is received (start: 7200.1, end: 7213.460000000001, length: 10630). Executed on VM #3 - 155 cloudlets executed.
+7213.5700000000015: My_Broker: Cloudlet 135 is received (start: 7200.1, end: 7213.5700000000015, length: 10690). Executed on VM #2 - 156 cloudlets executed.
+7800.1: scheduling => ID00185, ID00131, ID00132, ID00230, ID00236, ID00124, ID00125, ID00126, ID00177, ID00258, ID00271, ID00276, ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+7800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+7800.1: cloudlet #185 will execute on vm #8
+7800.1: cloudlet #131 will execute on vm #9
+7800.1: cloudlet #132 will execute on vm #10
+7800.1: cloudlet #230 will execute on vm #11
+7800.1: cloudlet #236 will execute on vm #4
+7800.1: cloudlet #124 will execute on vm #5
+7800.1: cloudlet #125 will execute on vm #6
+7800.1: cloudlet #126 will execute on vm #7
+7800.1: cloudlet #177 will execute on vm #0
+7800.1: cloudlet #258 will execute on vm #1
+7800.1: cloudlet #271 will execute on vm #2
+7800.1: cloudlet #276 will execute on vm #3
+7806.63125: My_Broker: Cloudlet 132 is received (start: 7800.1, end: 7806.63125, length: 10450). Executed on VM #10 - 157 cloudlets executed.
+7806.7375: My_Broker: Cloudlet 131 is received (start: 7800.1, end: 7806.7375, length: 10620). Executed on VM #9 - 158 cloudlets executed.
+7806.7375: My_Broker: Cloudlet 230 is received (start: 7800.1, end: 7806.7375, length: 10590). Executed on VM #11 - 159 cloudlets executed.
+7806.85: My_Broker: Cloudlet 185 is received (start: 7800.1, end: 7806.85, length: 10800). Executed on VM #8 - 160 cloudlets executed.
+7808.941666666667: My_Broker: Cloudlet 126 is received (start: 7800.1, end: 7808.941666666667, length: 10610). Executed on VM #7 - 161 cloudlets executed.
+7809.051666666667: My_Broker: Cloudlet 236 is received (start: 7800.1, end: 7809.051666666667, length: 10640). Executed on VM #4 - 162 cloudlets executed.
+7809.051666666667: My_Broker: Cloudlet 124 is received (start: 7800.1, end: 7809.051666666667, length: 10700). Executed on VM #5 - 163 cloudlets executed.
+7809.051666666667: My_Broker: Cloudlet 125 is received (start: 7800.1, end: 7809.051666666667, length: 10730). Executed on VM #6 - 164 cloudlets executed.
+7813.299166666668: My_Broker: Cloudlet 177 is received (start: 7800.1, end: 7813.299166666668, length: 10560). Executed on VM #0 - 165 cloudlets executed.
+7813.409166666668: My_Broker: Cloudlet 258 is received (start: 7800.1, end: 7813.409166666668, length: 10580). Executed on VM #1 - 166 cloudlets executed.
+7813.409166666668: My_Broker: Cloudlet 271 is received (start: 7800.1, end: 7813.409166666668, length: 10600). Executed on VM #2 - 167 cloudlets executed.
+7813.524166666668: My_Broker: Cloudlet 276 is received (start: 7800.1, end: 7813.524166666668, length: 10740). Executed on VM #3 - 168 cloudlets executed.
+8400.1: scheduling => ID00138, ID00144, ID00227, ID00247, ID00226, ID00259, ID00270, ID00405, ID00154, ID00172, ID00408, ID00409, ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+8400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+8400.1: cloudlet #138 will execute on vm #8
+8400.1: cloudlet #144 will execute on vm #9
+8400.1: cloudlet #227 will execute on vm #10
+8400.1: cloudlet #247 will execute on vm #11
+8400.1: cloudlet #226 will execute on vm #4
+8400.1: cloudlet #259 will execute on vm #5
+8400.1: cloudlet #270 will execute on vm #6
+8400.1: cloudlet #405 will execute on vm #7
+8400.1: cloudlet #154 will execute on vm #0
+8400.1: cloudlet #172 will execute on vm #1
+8400.1: cloudlet #408 will execute on vm #2
+8400.1: cloudlet #409 will execute on vm #3
+8406.68125: My_Broker: Cloudlet 138 is received (start: 8400.1, end: 8406.68125, length: 10530). Executed on VM #8 - 169 cloudlets executed.
+8406.79125: My_Broker: Cloudlet 144 is received (start: 8400.1, end: 8406.79125, length: 10580). Executed on VM #9 - 170 cloudlets executed.
+8406.79125: My_Broker: Cloudlet 227 is received (start: 8400.1, end: 8406.79125, length: 10680). Executed on VM #10 - 171 cloudlets executed.
+8406.90125: My_Broker: Cloudlet 247 is received (start: 8400.1, end: 8406.90125, length: 10740). Executed on VM #11 - 172 cloudlets executed.
+8408.782916666667: My_Broker: Cloudlet 405 is received (start: 8400.1, end: 8408.782916666667, length: 10420). Executed on VM #7 - 173 cloudlets executed.
+8408.892916666668: My_Broker: Cloudlet 270 is received (start: 8400.1, end: 8408.892916666668, length: 10460). Executed on VM #6 - 174 cloudlets executed.
+8409.002916666668: My_Broker: Cloudlet 226 is received (start: 8400.1, end: 8409.002916666668, length: 10560). Executed on VM #4 - 175 cloudlets executed.
+8409.112916666669: My_Broker: Cloudlet 259 is received (start: 8400.1, end: 8409.112916666669, length: 10690). Executed on VM #5 - 176 cloudlets executed.
+8413.23666666667: My_Broker: Cloudlet 409 is received (start: 8400.1, end: 8413.23666666667, length: 10510). Executed on VM #3 - 177 cloudlets executed.
+8413.48666666667: My_Broker: Cloudlet 408 is received (start: 8400.1, end: 8413.48666666667, length: 10710). Executed on VM #2 - 178 cloudlets executed.
+8413.59666666667: My_Broker: Cloudlet 154 is received (start: 8400.1, end: 8413.59666666667, length: 10720). Executed on VM #0 - 179 cloudlets executed.
+8413.70666666667: My_Broker: Cloudlet 172 is received (start: 8400.1, end: 8413.70666666667, length: 10800). Executed on VM #1 - 180 cloudlets executed.
+9000.1: scheduling => ID00410, ID00411, ID00206, ID00235, ID00160, ID00168, ID00183, ID00238, ID00372, ID00373, ID00374, ID00385, ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+9000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+9000.1: cloudlet #410 will execute on vm #8
+9000.1: cloudlet #411 will execute on vm #9
+9000.1: cloudlet #206 will execute on vm #10
+9000.1: cloudlet #235 will execute on vm #11
+9000.1: cloudlet #160 will execute on vm #4
+9000.1: cloudlet #168 will execute on vm #5
+9000.1: cloudlet #183 will execute on vm #6
+9000.1: cloudlet #238 will execute on vm #7
+9000.1: cloudlet #372 will execute on vm #0
+9000.1: cloudlet #373 will execute on vm #1
+9000.1: cloudlet #374 will execute on vm #2
+9000.1: cloudlet #385 will execute on vm #3
+9006.60625: My_Broker: Cloudlet 206 is received (start: 9000.1, end: 9006.60625, length: 10410). Executed on VM #10 - 181 cloudlets executed.
+9006.716250000001: My_Broker: Cloudlet 235 is received (start: 9000.1, end: 9006.716250000001, length: 10490). Executed on VM #11 - 182 cloudlets executed.
+9006.826250000002: My_Broker: Cloudlet 410 is received (start: 9000.1, end: 9006.826250000002, length: 10600). Executed on VM #8 - 183 cloudlets executed.
+9006.826250000002: My_Broker: Cloudlet 411 is received (start: 9000.1, end: 9006.826250000002, length: 10600). Executed on VM #9 - 184 cloudlets executed.
+9008.782916666669: My_Broker: Cloudlet 238 is received (start: 9000.1, end: 9008.782916666669, length: 10420). Executed on VM #7 - 185 cloudlets executed.
+9008.89291666667: My_Broker: Cloudlet 160 is received (start: 9000.1, end: 9008.89291666667, length: 10480). Executed on VM #4 - 186 cloudlets executed.
+9008.89291666667: My_Broker: Cloudlet 168 is received (start: 9000.1, end: 9008.89291666667, length: 10510). Executed on VM #5 - 187 cloudlets executed.
+9008.89291666667: My_Broker: Cloudlet 183 is received (start: 9000.1, end: 9008.89291666667, length: 10520). Executed on VM #6 - 188 cloudlets executed.
+9013.074166666669: My_Broker: Cloudlet 372 is received (start: 9000.1, end: 9013.074166666669, length: 10380). Executed on VM #0 - 189 cloudlets executed.
+9013.249166666668: My_Broker: Cloudlet 385 is received (start: 9000.1, end: 9013.249166666668, length: 10520). Executed on VM #3 - 190 cloudlets executed.
+9013.359166666669: My_Broker: Cloudlet 373 is received (start: 9000.1, end: 9013.359166666669, length: 10530). Executed on VM #1 - 191 cloudlets executed.
+9013.359166666669: My_Broker: Cloudlet 374 is received (start: 9000.1, end: 9013.359166666669, length: 10540). Executed on VM #2 - 192 cloudlets executed.
+9600.1: scheduling => ID00386, ID00387, ID00388, ID00191, ID00292, ID00379, ID00380, ID00269, ID00382, ID00383, ID00384, ID00209, ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+9600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+9600.1: cloudlet #386 will execute on vm #8
+9600.1: cloudlet #387 will execute on vm #9
+9600.1: cloudlet #388 will execute on vm #10
+9600.1: cloudlet #191 will execute on vm #11
+9600.1: cloudlet #292 will execute on vm #4
+9600.1: cloudlet #379 will execute on vm #5
+9600.1: cloudlet #380 will execute on vm #6
+9600.1: cloudlet #269 will execute on vm #7
+9600.1: cloudlet #382 will execute on vm #0
+9600.1: cloudlet #383 will execute on vm #1
+9600.1: cloudlet #384 will execute on vm #2
+9600.1: cloudlet #209 will execute on vm #3
+9606.625: My_Broker: Cloudlet 388 is received (start: 9600.1, end: 9606.625, length: 10440). Executed on VM #10 - 193 cloudlets executed.
+9606.735: My_Broker: Cloudlet 386 is received (start: 9600.1, end: 9606.735, length: 10540). Executed on VM #8 - 194 cloudlets executed.
+9606.735: My_Broker: Cloudlet 387 is received (start: 9600.1, end: 9606.735, length: 10590). Executed on VM #9 - 195 cloudlets executed.
+9606.875: My_Broker: Cloudlet 191 is received (start: 9600.1, end: 9606.875, length: 10840). Executed on VM #11 - 196 cloudlets executed.
+9608.741666666667: My_Broker: Cloudlet 292 is received (start: 9600.1, end: 9608.741666666667, length: 10370). Executed on VM #4 - 197 cloudlets executed.
+9608.875: My_Broker: Cloudlet 269 is received (start: 9600.1, end: 9608.875, length: 10530). Executed on VM #7 - 198 cloudlets executed.
+9608.983333333334: My_Broker: Cloudlet 379 is received (start: 9600.1, end: 9608.983333333334, length: 10640). Executed on VM #5 - 199 cloudlets executed.
+9608.983333333334: My_Broker: Cloudlet 380 is received (start: 9600.1, end: 9608.983333333334, length: 10660). Executed on VM #6 - 200 cloudlets executed.
+9613.199583333333: My_Broker: Cloudlet 383 is received (start: 9600.1, end: 9613.199583333333, length: 10480). Executed on VM #1 - 201 cloudlets executed.
+9613.312083333332: My_Broker: Cloudlet 382 is received (start: 9600.1, end: 9613.312083333332, length: 10570). Executed on VM #0 - 202 cloudlets executed.
+9613.424583333332: My_Broker: Cloudlet 209 is received (start: 9600.1, end: 9613.424583333332, length: 10660). Executed on VM #3 - 203 cloudlets executed.
+9613.534583333332: My_Broker: Cloudlet 384 is received (start: 9600.1, end: 9613.534583333332, length: 10730). Executed on VM #2 - 204 cloudlets executed.
+10200.1: scheduling => ID00255, ID00264, ID00392, ID00393, ID00394, ID00398, ID00399, ID00156, ID00184, ID00401, ID00402, ID00403, ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+10200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+10200.1: cloudlet #255 will execute on vm #8
+10200.1: cloudlet #264 will execute on vm #9
+10200.1: cloudlet #392 will execute on vm #10
+10200.1: cloudlet #393 will execute on vm #11
+10200.1: cloudlet #394 will execute on vm #4
+10200.1: cloudlet #398 will execute on vm #5
+10200.1: cloudlet #399 will execute on vm #6
+10200.1: cloudlet #156 will execute on vm #7
+10200.1: cloudlet #184 will execute on vm #0
+10200.1: cloudlet #401 will execute on vm #1
+10200.1: cloudlet #402 will execute on vm #2
+10200.1: cloudlet #403 will execute on vm #3
+10206.68125: My_Broker: Cloudlet 255 is received (start: 10200.1, end: 10206.68125, length: 10530). Executed on VM #8 - 205 cloudlets executed.
+10206.79125: My_Broker: Cloudlet 264 is received (start: 10200.1, end: 10206.79125, length: 10670). Executed on VM #9 - 206 cloudlets executed.
+10206.79125: My_Broker: Cloudlet 392 is received (start: 10200.1, end: 10206.79125, length: 10560). Executed on VM #10 - 207 cloudlets executed.
+10206.79125: My_Broker: Cloudlet 393 is received (start: 10200.1, end: 10206.79125, length: 10610). Executed on VM #11 - 208 cloudlets executed.
+10208.84125: My_Broker: Cloudlet 399 is received (start: 10200.1, end: 10208.84125, length: 10490). Executed on VM #6 - 209 cloudlets executed.
+10208.95125: My_Broker: Cloudlet 398 is received (start: 10200.1, end: 10208.95125, length: 10560). Executed on VM #5 - 210 cloudlets executed.
+10209.06125: My_Broker: Cloudlet 394 is received (start: 10200.1, end: 10209.06125, length: 10670). Executed on VM #4 - 211 cloudlets executed.
+10209.06125: My_Broker: Cloudlet 156 is received (start: 10200.1, end: 10209.06125, length: 10670). Executed on VM #7 - 212 cloudlets executed.
+10213.237500000001: My_Broker: Cloudlet 401 is received (start: 10200.1, end: 10213.237500000001, length: 10510). Executed on VM #1 - 213 cloudlets executed.
+10213.347500000002: My_Broker: Cloudlet 402 is received (start: 10200.1, end: 10213.347500000002, length: 10550). Executed on VM #2 - 214 cloudlets executed.
+10213.347500000002: My_Broker: Cloudlet 403 is received (start: 10200.1, end: 10213.347500000002, length: 10570). Executed on VM #3 - 215 cloudlets executed.
+10213.457500000002: My_Broker: Cloudlet 184 is received (start: 10200.1, end: 10213.457500000002, length: 10670). Executed on VM #0 - 216 cloudlets executed.
+10800.1: scheduling => ID00201, ID00256, ID00265, ID00286, ID00381, ID00188, ID00220, ID00378, ID00281, ID00337, ID00182, ID00338, ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+10800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+10800.1: cloudlet #201 will execute on vm #8
+10800.1: cloudlet #256 will execute on vm #9
+10800.1: cloudlet #265 will execute on vm #10
+10800.1: cloudlet #286 will execute on vm #11
+10800.1: cloudlet #381 will execute on vm #4
+10800.1: cloudlet #188 will execute on vm #5
+10800.1: cloudlet #220 will execute on vm #6
+10800.1: cloudlet #378 will execute on vm #7
+10800.1: cloudlet #281 will execute on vm #0
+10800.1: cloudlet #337 will execute on vm #1
+10800.1: cloudlet #182 will execute on vm #2
+10800.1: cloudlet #338 will execute on vm #3
+10806.706250000001: My_Broker: Cloudlet 256 is received (start: 10800.1, end: 10806.706250000001, length: 10570). Executed on VM #9 - 217 cloudlets executed.
+10806.816250000002: My_Broker: Cloudlet 201 is received (start: 10800.1, end: 10806.816250000002, length: 10600). Executed on VM #8 - 218 cloudlets executed.
+10806.816250000002: My_Broker: Cloudlet 265 is received (start: 10800.1, end: 10806.816250000002, length: 10660). Executed on VM #10 - 219 cloudlets executed.
+10806.816250000002: My_Broker: Cloudlet 286 is received (start: 10800.1, end: 10806.816250000002, length: 10630). Executed on VM #11 - 220 cloudlets executed.
+10808.791250000002: My_Broker: Cloudlet 378 is received (start: 10800.1, end: 10808.791250000002, length: 10430). Executed on VM #7 - 221 cloudlets executed.
+10808.941250000002: My_Broker: Cloudlet 381 is received (start: 10800.1, end: 10808.941250000002, length: 10610). Executed on VM #4 - 222 cloudlets executed.
+10809.041666666668: My_Broker: Cloudlet 188 is received (start: 10800.1, end: 10809.041666666668, length: 10660). Executed on VM #5 - 223 cloudlets executed.
+10809.041666666668: My_Broker: Cloudlet 220 is received (start: 10800.1, end: 10809.041666666668, length: 10730). Executed on VM #6 - 224 cloudlets executed.
+10813.224166666669: My_Broker: Cloudlet 182 is received (start: 10800.1, end: 10813.224166666669, length: 10500). Executed on VM #2 - 225 cloudlets executed.
+10813.336666666668: My_Broker: Cloudlet 337 is received (start: 10800.1, end: 10813.336666666668, length: 10590). Executed on VM #1 - 226 cloudlets executed.
+10813.446666666669: My_Broker: Cloudlet 338 is received (start: 10800.1, end: 10813.446666666669, length: 10640). Executed on VM #3 - 227 cloudlets executed.
+10813.55666666667: My_Broker: Cloudlet 281 is received (start: 10800.1, end: 10813.55666666667, length: 10690). Executed on VM #0 - 228 cloudlets executed.
+11400.1: scheduling => ID00348, ID00129, ID00139, ID00143, ID00167, ID00253, ID00351, ID00171, ID00263, ID00282, ID00340, ID00341, ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+11400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+11400.1: cloudlet #348 will execute on vm #8
+11400.1: cloudlet #129 will execute on vm #9
+11400.1: cloudlet #139 will execute on vm #10
+11400.1: cloudlet #143 will execute on vm #11
+11400.1: cloudlet #167 will execute on vm #4
+11400.1: cloudlet #253 will execute on vm #5
+11400.1: cloudlet #351 will execute on vm #6
+11400.1: cloudlet #171 will execute on vm #7
+11400.1: cloudlet #263 will execute on vm #0
+11400.1: cloudlet #282 will execute on vm #1
+11400.1: cloudlet #340 will execute on vm #2
+11400.1: cloudlet #341 will execute on vm #3
+11406.69375: My_Broker: Cloudlet 139 is received (start: 11400.1, end: 11406.69375, length: 10550). Executed on VM #10 - 229 cloudlets executed.
+11406.803750000001: My_Broker: Cloudlet 348 is received (start: 11400.1, end: 11406.803750000001, length: 10630). Executed on VM #8 - 230 cloudlets executed.
+11406.913750000002: My_Broker: Cloudlet 129 is received (start: 11400.1, end: 11406.913750000002, length: 10750). Executed on VM #9 - 231 cloudlets executed.
+11406.913750000002: My_Broker: Cloudlet 143 is received (start: 11400.1, end: 11406.913750000002, length: 10830). Executed on VM #11 - 232 cloudlets executed.
+11408.899583333336: My_Broker: Cloudlet 167 is received (start: 11400.1, end: 11408.899583333336, length: 10560). Executed on VM #4 - 233 cloudlets executed.
+11409.008333333333: My_Broker: Cloudlet 253 is received (start: 11400.1, end: 11409.008333333333, length: 10640). Executed on VM #5 - 234 cloudlets executed.
+11409.008333333333: My_Broker: Cloudlet 351 is received (start: 11400.1, end: 11409.008333333333, length: 10600). Executed on VM #6 - 235 cloudlets executed.
+11409.008333333333: My_Broker: Cloudlet 171 is received (start: 11400.1, end: 11409.008333333333, length: 10690). Executed on VM #7 - 236 cloudlets executed.
+11413.249583333332: My_Broker: Cloudlet 282 is received (start: 11400.1, end: 11413.249583333332, length: 10520). Executed on VM #1 - 237 cloudlets executed.
+11413.412083333333: My_Broker: Cloudlet 340 is received (start: 11400.1, end: 11413.412083333333, length: 10650). Executed on VM #2 - 238 cloudlets executed.
+11413.5125: My_Broker: Cloudlet 263 is received (start: 11400.1, end: 11413.5125, length: 10730). Executed on VM #0 - 239 cloudlets executed.
+11413.5125: My_Broker: Cloudlet 341 is received (start: 11400.1, end: 11413.5125, length: 10710). Executed on VM #3 - 240 cloudlets executed.
+12000.1: scheduling => ID00342, ID00371, ID00234, ID00345, ID00347, ID00349, ID00208, ID00367, ID00368, ID00397, ID00406, ID00128, ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+12000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+12000.1: cloudlet #342 will execute on vm #8
+12000.1: cloudlet #371 will execute on vm #9
+12000.1: cloudlet #234 will execute on vm #10
+12000.1: cloudlet #345 will execute on vm #11
+12000.1: cloudlet #347 will execute on vm #4
+12000.1: cloudlet #349 will execute on vm #5
+12000.1: cloudlet #208 will execute on vm #6
+12000.1: cloudlet #367 will execute on vm #7
+12000.1: cloudlet #368 will execute on vm #0
+12000.1: cloudlet #397 will execute on vm #1
+12000.1: cloudlet #406 will execute on vm #2
+12000.1: cloudlet #128 will execute on vm #3
+12006.706250000001: My_Broker: Cloudlet 345 is received (start: 12000.1, end: 12006.706250000001, length: 10570). Executed on VM #11 - 241 cloudlets executed.
+12006.816250000002: My_Broker: Cloudlet 342 is received (start: 12000.1, end: 12006.816250000002, length: 10610). Executed on VM #8 - 242 cloudlets executed.
+12006.816250000002: My_Broker: Cloudlet 371 is received (start: 12000.1, end: 12006.816250000002, length: 10590). Executed on VM #9 - 243 cloudlets executed.
+12006.816250000002: My_Broker: Cloudlet 234 is received (start: 12000.1, end: 12006.816250000002, length: 10680). Executed on VM #10 - 244 cloudlets executed.
+12008.916250000002: My_Broker: Cloudlet 349 is received (start: 12000.1, end: 12008.916250000002, length: 10580). Executed on VM #5 - 245 cloudlets executed.
+12009.026250000003: My_Broker: Cloudlet 347 is received (start: 12000.1, end: 12009.026250000003, length: 10640). Executed on VM #4 - 246 cloudlets executed.
+12009.026250000003: My_Broker: Cloudlet 208 is received (start: 12000.1, end: 12009.026250000003, length: 10630). Executed on VM #6 - 247 cloudlets executed.
+12009.026250000003: My_Broker: Cloudlet 367 is received (start: 12000.1, end: 12009.026250000003, length: 10690). Executed on VM #7 - 248 cloudlets executed.
+12013.25: My_Broker: Cloudlet 397 is received (start: 12000.1, end: 12013.25, length: 10520). Executed on VM #1 - 249 cloudlets executed.
+12013.375: My_Broker: Cloudlet 406 is received (start: 12000.1, end: 12013.375, length: 10620). Executed on VM #2 - 250 cloudlets executed.
+12013.485: My_Broker: Cloudlet 368 is received (start: 12000.1, end: 12013.485, length: 10650). Executed on VM #0 - 251 cloudlets executed.
+12013.485: My_Broker: Cloudlet 128 is received (start: 12000.1, end: 12013.485, length: 10670). Executed on VM #3 - 252 cloudlets executed.
+12600.1: scheduling => ID00153, ID00361, ID00362, ID00363, ID00364, ID00375, ID00187, ID00335, ID00336, ID00391, ID00127, ID00186, ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+12600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+12600.1: cloudlet #153 will execute on vm #8
+12600.1: cloudlet #361 will execute on vm #9
+12600.1: cloudlet #362 will execute on vm #10
+12600.1: cloudlet #363 will execute on vm #11
+12600.1: cloudlet #364 will execute on vm #4
+12600.1: cloudlet #375 will execute on vm #5
+12600.1: cloudlet #187 will execute on vm #6
+12600.1: cloudlet #335 will execute on vm #7
+12600.1: cloudlet #336 will execute on vm #0
+12600.1: cloudlet #391 will execute on vm #1
+12600.1: cloudlet #127 will execute on vm #2
+12600.1: cloudlet #186 will execute on vm #3
+12606.59375: My_Broker: Cloudlet 363 is received (start: 12600.1, end: 12606.59375, length: 10390). Executed on VM #11 - 253 cloudlets executed.
+12606.70375: My_Broker: Cloudlet 153 is received (start: 12600.1, end: 12606.70375, length: 10420). Executed on VM #8 - 254 cloudlets executed.
+12606.813750000001: My_Broker: Cloudlet 361 is received (start: 12600.1, end: 12606.813750000001, length: 10690). Executed on VM #9 - 255 cloudlets executed.
+12606.813750000001: My_Broker: Cloudlet 362 is received (start: 12600.1, end: 12606.813750000001, length: 10620). Executed on VM #10 - 256 cloudlets executed.
+12608.782916666667: My_Broker: Cloudlet 364 is received (start: 12600.1, end: 12608.782916666667, length: 10420). Executed on VM #4 - 257 cloudlets executed.
+12608.907916666667: My_Broker: Cloudlet 187 is received (start: 12600.1, end: 12608.907916666667, length: 10570). Executed on VM #6 - 258 cloudlets executed.
+12609.017916666668: My_Broker: Cloudlet 335 is received (start: 12600.1, end: 12609.017916666668, length: 10580). Executed on VM #7 - 259 cloudlets executed.
+12609.127916666668: My_Broker: Cloudlet 375 is received (start: 12600.1, end: 12609.127916666668, length: 10800). Executed on VM #5 - 260 cloudlets executed.
+12613.211666666668: My_Broker: Cloudlet 391 is received (start: 12600.1, end: 12613.211666666668, length: 10490). Executed on VM #1 - 261 cloudlets executed.
+12613.3125: My_Broker: Cloudlet 336 is received (start: 12600.1, end: 12613.3125, length: 10570). Executed on VM #0 - 262 cloudlets executed.
+12613.4225: My_Broker: Cloudlet 186 is received (start: 12600.1, end: 12613.4225, length: 10610). Executed on VM #3 - 263 cloudlets executed.
+12613.532500000001: My_Broker: Cloudlet 127 is received (start: 12600.1, end: 12613.532500000001, length: 10690). Executed on VM #2 - 264 cloudlets executed.
+13200.1: scheduling => ID00330, ID00331, ID00332, ID00333, ID00334, ID00344, ID00245, ID00268, ID00355, ID00356, ID00357, ID00358, ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+13200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+13200.1: cloudlet #330 will execute on vm #8
+13200.1: cloudlet #331 will execute on vm #9
+13200.1: cloudlet #332 will execute on vm #10
+13200.1: cloudlet #333 will execute on vm #11
+13200.1: cloudlet #334 will execute on vm #4
+13200.1: cloudlet #344 will execute on vm #5
+13200.1: cloudlet #245 will execute on vm #6
+13200.1: cloudlet #268 will execute on vm #7
+13200.1: cloudlet #355 will execute on vm #0
+13200.1: cloudlet #356 will execute on vm #1
+13200.1: cloudlet #357 will execute on vm #2
+13200.1: cloudlet #358 will execute on vm #3
+13206.6875: My_Broker: Cloudlet 331 is received (start: 13200.1, end: 13206.6875, length: 10540). Executed on VM #9 - 265 cloudlets executed.
+13206.79375: My_Broker: Cloudlet 330 is received (start: 13200.1, end: 13206.79375, length: 10570). Executed on VM #8 - 266 cloudlets executed.
+13206.79375: My_Broker: Cloudlet 333 is received (start: 13200.1, end: 13206.79375, length: 10710). Executed on VM #11 - 267 cloudlets executed.
+13206.903750000001: My_Broker: Cloudlet 332 is received (start: 13200.1, end: 13206.903750000001, length: 10780). Executed on VM #10 - 268 cloudlets executed.
+13208.866250000001: My_Broker: Cloudlet 268 is received (start: 13200.1, end: 13208.866250000001, length: 10520). Executed on VM #7 - 269 cloudlets executed.
+13208.966666666667: My_Broker: Cloudlet 344 is received (start: 13200.1, end: 13208.966666666667, length: 10640). Executed on VM #5 - 270 cloudlets executed.
+13208.966666666667: My_Broker: Cloudlet 245 is received (start: 13200.1, end: 13208.966666666667, length: 10630). Executed on VM #6 - 271 cloudlets executed.
+13209.076666666668: My_Broker: Cloudlet 334 is received (start: 13200.1, end: 13209.076666666668, length: 10660). Executed on VM #4 - 272 cloudlets executed.
+13213.274166666668: My_Broker: Cloudlet 355 is received (start: 13200.1, end: 13213.274166666668, length: 10540). Executed on VM #0 - 273 cloudlets executed.
+13213.384166666669: My_Broker: Cloudlet 358 is received (start: 13200.1, end: 13213.384166666669, length: 10590). Executed on VM #3 - 274 cloudlets executed.
+13213.49416666667: My_Broker: Cloudlet 356 is received (start: 13200.1, end: 13213.49416666667, length: 10670). Executed on VM #1 - 275 cloudlets executed.
+13213.49416666667: My_Broker: Cloudlet 357 is received (start: 13200.1, end: 13213.49416666667, length: 10650). Executed on VM #2 - 276 cloudlets executed.
+13800.1: scheduling => ID00359, ID00198, ID00225, ID00291, ID00352, ID00353, ID00354, ID00365, ID00377, ID00147, ID00216, ID00298, ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+13800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+13800.1: cloudlet #359 will execute on vm #8
+13800.1: cloudlet #198 will execute on vm #9
+13800.1: cloudlet #225 will execute on vm #10
+13800.1: cloudlet #291 will execute on vm #11
+13800.1: cloudlet #352 will execute on vm #4
+13800.1: cloudlet #353 will execute on vm #5
+13800.1: cloudlet #354 will execute on vm #6
+13800.1: cloudlet #365 will execute on vm #7
+13800.1: cloudlet #377 will execute on vm #0
+13800.1: cloudlet #147 will execute on vm #1
+13800.1: cloudlet #216 will execute on vm #2
+13800.1: cloudlet #298 will execute on vm #3
+13806.65: My_Broker: Cloudlet 359 is received (start: 13800.1, end: 13806.65, length: 10480). Executed on VM #8 - 277 cloudlets executed.
+13806.76: My_Broker: Cloudlet 225 is received (start: 13800.1, end: 13806.76, length: 10570). Executed on VM #10 - 278 cloudlets executed.
+13806.87: My_Broker: Cloudlet 198 is received (start: 13800.1, end: 13806.87, length: 10670). Executed on VM #9 - 279 cloudlets executed.
+13806.87: My_Broker: Cloudlet 291 is received (start: 13800.1, end: 13806.87, length: 10660). Executed on VM #11 - 280 cloudlets executed.
+13808.791666666668: My_Broker: Cloudlet 365 is received (start: 13800.1, end: 13808.791666666668, length: 10430). Executed on VM #7 - 281 cloudlets executed.
+13808.908333333333: My_Broker: Cloudlet 352 is received (start: 13800.1, end: 13808.908333333333, length: 10570). Executed on VM #4 - 282 cloudlets executed.
+13809.018333333333: My_Broker: Cloudlet 353 is received (start: 13800.1, end: 13809.018333333333, length: 10590). Executed on VM #5 - 283 cloudlets executed.
+13809.018333333333: My_Broker: Cloudlet 354 is received (start: 13800.1, end: 13809.018333333333, length: 10640). Executed on VM #6 - 284 cloudlets executed.
+13813.262083333333: My_Broker: Cloudlet 216 is received (start: 13800.1, end: 13813.262083333333, length: 10530). Executed on VM #2 - 285 cloudlets executed.
+13813.399583333334: My_Broker: Cloudlet 147 is received (start: 13800.1, end: 13813.399583333334, length: 10640). Executed on VM #1 - 286 cloudlets executed.
+13813.509583333334: My_Broker: Cloudlet 298 is received (start: 13800.1, end: 13813.509583333334, length: 10670). Executed on VM #3 - 287 cloudlets executed.
+13813.619583333335: My_Broker: Cloudlet 377 is received (start: 13800.1, end: 13813.619583333335, length: 10760). Executed on VM #0 - 288 cloudlets executed.
+14400.1: scheduling => ID00299, ID00300, ID00346, ID00366, ID00370, ID00197, ID00307, ID00308, ID00311, ID00404, ID00166, ID00302, ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+14400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+14400.1: cloudlet #299 will execute on vm #8
+14400.1: cloudlet #300 will execute on vm #9
+14400.1: cloudlet #346 will execute on vm #10
+14400.1: cloudlet #366 will execute on vm #11
+14400.1: cloudlet #370 will execute on vm #4
+14400.1: cloudlet #197 will execute on vm #5
+14400.1: cloudlet #307 will execute on vm #6
+14400.1: cloudlet #308 will execute on vm #7
+14400.1: cloudlet #311 will execute on vm #0
+14400.1: cloudlet #404 will execute on vm #1
+14400.1: cloudlet #166 will execute on vm #2
+14400.1: cloudlet #302 will execute on vm #3
+14406.6375: My_Broker: Cloudlet 346 is received (start: 14400.1, end: 14406.6375, length: 10460). Executed on VM #10 - 289 cloudlets executed.
+14406.747500000001: My_Broker: Cloudlet 299 is received (start: 14400.1, end: 14406.747500000001, length: 10480). Executed on VM #8 - 290 cloudlets executed.
+14406.747500000001: My_Broker: Cloudlet 300 is received (start: 14400.1, end: 14406.747500000001, length: 10620). Executed on VM #9 - 291 cloudlets executed.
+14406.747500000001: My_Broker: Cloudlet 366 is received (start: 14400.1, end: 14406.747500000001, length: 10550). Executed on VM #11 - 292 cloudlets executed.
+14408.858333333334: My_Broker: Cloudlet 370 is received (start: 14400.1, end: 14408.858333333334, length: 10510). Executed on VM #4 - 293 cloudlets executed.
+14408.968333333334: My_Broker: Cloudlet 197 is received (start: 14400.1, end: 14408.968333333334, length: 10550). Executed on VM #5 - 294 cloudlets executed.
+14409.078333333335: My_Broker: Cloudlet 307 is received (start: 14400.1, end: 14409.078333333335, length: 10670). Executed on VM #6 - 295 cloudlets executed.
+14409.078333333335: My_Broker: Cloudlet 308 is received (start: 14400.1, end: 14409.078333333335, length: 10680). Executed on VM #7 - 296 cloudlets executed.
+14413.149583333336: My_Broker: Cloudlet 166 is received (start: 14400.1, end: 14413.149583333336, length: 10440). Executed on VM #2 - 297 cloudlets executed.
+14413.299583333335: My_Broker: Cloudlet 404 is received (start: 14400.1, end: 14413.299583333335, length: 10560). Executed on VM #1 - 298 cloudlets executed.
+14413.409583333336: My_Broker: Cloudlet 311 is received (start: 14400.1, end: 14413.409583333336, length: 10630). Executed on VM #0 - 299 cloudlets executed.
+14413.409583333336: My_Broker: Cloudlet 302 is received (start: 14400.1, end: 14413.409583333336, length: 10570). Executed on VM #3 - 300 cloudlets executed.
+15000.1: scheduling => ID00303, ID00305, ID00306, ID00309, ID00395, ID00196, ID00262, ID00284, ID00293, ID00294, ID00295, ID00296, ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+15000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+15000.1: cloudlet #303 will execute on vm #8
+15000.1: cloudlet #305 will execute on vm #9
+15000.1: cloudlet #306 will execute on vm #10
+15000.1: cloudlet #309 will execute on vm #11
+15000.1: cloudlet #395 will execute on vm #4
+15000.1: cloudlet #196 will execute on vm #5
+15000.1: cloudlet #262 will execute on vm #6
+15000.1: cloudlet #284 will execute on vm #7
+15000.1: cloudlet #293 will execute on vm #0
+15000.1: cloudlet #294 will execute on vm #1
+15000.1: cloudlet #295 will execute on vm #2
+15000.1: cloudlet #296 will execute on vm #3
+15006.6: My_Broker: Cloudlet 309 is received (start: 15000.1, end: 15006.6, length: 10400). Executed on VM #11 - 301 cloudlets executed.
+15006.710000000001: My_Broker: Cloudlet 303 is received (start: 15000.1, end: 15006.710000000001, length: 10540). Executed on VM #8 - 302 cloudlets executed.
+15006.820000000002: My_Broker: Cloudlet 306 is received (start: 15000.1, end: 15006.820000000002, length: 10620). Executed on VM #10 - 303 cloudlets executed.
+15006.930000000002: My_Broker: Cloudlet 305 is received (start: 15000.1, end: 15006.930000000002, length: 10780). Executed on VM #9 - 304 cloudlets executed.
+15008.825: My_Broker: Cloudlet 196 is received (start: 15000.1, end: 15008.825, length: 10470). Executed on VM #5 - 305 cloudlets executed.
+15008.935000000001: My_Broker: Cloudlet 262 is received (start: 15000.1, end: 15008.935000000001, length: 10580). Executed on VM #6 - 306 cloudlets executed.
+15009.050000000001: My_Broker: Cloudlet 395 is received (start: 15000.1, end: 15009.050000000001, length: 10740). Executed on VM #4 - 307 cloudlets executed.
+15009.160000000002: My_Broker: Cloudlet 284 is received (start: 15000.1, end: 15009.160000000002, length: 10780). Executed on VM #7 - 308 cloudlets executed.
+15013.300000000001: My_Broker: Cloudlet 295 is received (start: 15000.1, end: 15013.300000000001, length: 10560). Executed on VM #2 - 309 cloudlets executed.
+15013.410000000002: My_Broker: Cloudlet 293 is received (start: 15000.1, end: 15013.410000000002, length: 10620). Executed on VM #0 - 310 cloudlets executed.
+15013.410000000002: My_Broker: Cloudlet 294 is received (start: 15000.1, end: 15013.410000000002, length: 10630). Executed on VM #1 - 311 cloudlets executed.
+15013.520000000002: My_Broker: Cloudlet 296 is received (start: 15000.1, end: 15013.520000000002, length: 10710). Executed on VM #3 - 312 cloudlets executed.
+15600.1: scheduling => ID00297, ID00376, ID00389, ID00207, ID00326, ID00343, ID00285, ID00310, ID00315, ID00316, ID00317, ID00318, ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+15600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+15600.1: cloudlet #297 will execute on vm #8
+15600.1: cloudlet #376 will execute on vm #9
+15600.1: cloudlet #389 will execute on vm #10
+15600.1: cloudlet #207 will execute on vm #11
+15600.1: cloudlet #326 will execute on vm #4
+15600.1: cloudlet #343 will execute on vm #5
+15600.1: cloudlet #285 will execute on vm #6
+15600.1: cloudlet #310 will execute on vm #7
+15600.1: cloudlet #315 will execute on vm #0
+15600.1: cloudlet #316 will execute on vm #1
+15600.1: cloudlet #317 will execute on vm #2
+15600.1: cloudlet #318 will execute on vm #3
+15606.65625: My_Broker: Cloudlet 297 is received (start: 15600.1, end: 15606.65625, length: 10490). Executed on VM #8 - 313 cloudlets executed.
+15606.76625: My_Broker: Cloudlet 376 is received (start: 15600.1, end: 15606.76625, length: 10600). Executed on VM #9 - 314 cloudlets executed.
+15606.76625: My_Broker: Cloudlet 389 is received (start: 15600.1, end: 15606.76625, length: 10510). Executed on VM #10 - 315 cloudlets executed.
+15606.76625: My_Broker: Cloudlet 207 is received (start: 15600.1, end: 15606.76625, length: 10600). Executed on VM #11 - 316 cloudlets executed.
+15608.824583333333: My_Broker: Cloudlet 343 is received (start: 15600.1, end: 15608.824583333333, length: 10470). Executed on VM #5 - 317 cloudlets executed.
+15608.934583333334: My_Broker: Cloudlet 285 is received (start: 15600.1, end: 15608.934583333334, length: 10490). Executed on VM #6 - 318 cloudlets executed.
+15609.044583333334: My_Broker: Cloudlet 326 is received (start: 15600.1, end: 15609.044583333334, length: 10670). Executed on VM #4 - 319 cloudlets executed.
+15609.044583333334: My_Broker: Cloudlet 310 is received (start: 15600.1, end: 15609.044583333334, length: 10640). Executed on VM #7 - 320 cloudlets executed.
+15613.249583333334: My_Broker: Cloudlet 316 is received (start: 15600.1, end: 15613.249583333334, length: 10520). Executed on VM #1 - 321 cloudlets executed.
+15613.359583333335: My_Broker: Cloudlet 318 is received (start: 15600.1, end: 15613.359583333335, length: 10560). Executed on VM #3 - 322 cloudlets executed.
+15613.469583333335: My_Broker: Cloudlet 317 is received (start: 15600.1, end: 15613.469583333335, length: 10650). Executed on VM #2 - 323 cloudlets executed.
+15613.579583333336: My_Broker: Cloudlet 315 is received (start: 15600.1, end: 15613.579583333336, length: 10700). Executed on VM #0 - 324 cloudlets executed.
+16200.1: scheduling => ID00319, ID00320, ID00390, ID00396, ID00267, ID00312, ID00313, ID00314, ID00327, ID00219, ID00280, ID00304, ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+16200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+16200.1: cloudlet #319 will execute on vm #8
+16200.1: cloudlet #320 will execute on vm #9
+16200.1: cloudlet #390 will execute on vm #10
+16200.1: cloudlet #396 will execute on vm #11
+16200.1: cloudlet #267 will execute on vm #4
+16200.1: cloudlet #312 will execute on vm #5
+16200.1: cloudlet #313 will execute on vm #6
+16200.1: cloudlet #314 will execute on vm #7
+16200.1: cloudlet #327 will execute on vm #0
+16200.1: cloudlet #219 will execute on vm #1
+16200.1: cloudlet #280 will execute on vm #2
+16200.1: cloudlet #304 will execute on vm #3
+16206.65: My_Broker: Cloudlet 319 is received (start: 16200.1, end: 16206.65, length: 10480). Executed on VM #8 - 325 cloudlets executed.
+16206.76: My_Broker: Cloudlet 390 is received (start: 16200.1, end: 16206.76, length: 10630). Executed on VM #10 - 326 cloudlets executed.
+16206.76: My_Broker: Cloudlet 396 is received (start: 16200.1, end: 16206.76, length: 10620). Executed on VM #11 - 327 cloudlets executed.
+16206.87: My_Broker: Cloudlet 320 is received (start: 16200.1, end: 16206.87, length: 10740). Executed on VM #9 - 328 cloudlets executed.
+16208.891666666666: My_Broker: Cloudlet 313 is received (start: 16200.1, end: 16208.891666666666, length: 10550). Executed on VM #6 - 329 cloudlets executed.
+16209.001666666667: My_Broker: Cloudlet 267 is received (start: 16200.1, end: 16209.001666666667, length: 10610). Executed on VM #4 - 330 cloudlets executed.
+16209.001666666667: My_Broker: Cloudlet 312 is received (start: 16200.1, end: 16209.001666666667, length: 10570). Executed on VM #5 - 331 cloudlets executed.
+16209.001666666667: My_Broker: Cloudlet 314 is received (start: 16200.1, end: 16209.001666666667, length: 10570). Executed on VM #7 - 332 cloudlets executed.
+16213.011666666667: My_Broker: Cloudlet 304 is received (start: 16200.1, end: 16213.011666666667, length: 10330). Executed on VM #3 - 333 cloudlets executed.
+16213.286666666667: My_Broker: Cloudlet 327 is received (start: 16200.1, end: 16213.286666666667, length: 10550). Executed on VM #0 - 334 cloudlets executed.
+16213.396666666667: My_Broker: Cloudlet 219 is received (start: 16200.1, end: 16213.396666666667, length: 10570). Executed on VM #1 - 335 cloudlets executed.
+16213.506666666668: My_Broker: Cloudlet 280 is received (start: 16200.1, end: 16213.506666666668, length: 10680). Executed on VM #2 - 336 cloudlets executed.
+16800.1: scheduling => ID00323, ID00324, ID00096, ID00097, ID00098, ID00099, ID00100, ID00101, ID00140, ID00202, ID00328, ID00104, ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+16800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+16800.1: cloudlet #323 will execute on vm #8
+16800.1: cloudlet #324 will execute on vm #9
+16800.1: cloudlet #96 will execute on vm #10
+16800.1: cloudlet #97 will execute on vm #11
+16800.1: cloudlet #98 will execute on vm #4
+16800.1: cloudlet #99 will execute on vm #5
+16800.1: cloudlet #100 will execute on vm #6
+16800.1: cloudlet #101 will execute on vm #7
+16800.1: cloudlet #140 will execute on vm #0
+16800.1: cloudlet #202 will execute on vm #1
+16800.1: cloudlet #328 will execute on vm #2
+16800.1: cloudlet #104 will execute on vm #3
+16806.699999999997: My_Broker: Cloudlet 96 is received (start: 16800.1, end: 16806.699999999997, length: 10560). Executed on VM #10 - 337 cloudlets executed.
+16806.809999999994: My_Broker: Cloudlet 323 is received (start: 16800.1, end: 16806.809999999994, length: 10570). Executed on VM #8 - 338 cloudlets executed.
+16806.809999999994: My_Broker: Cloudlet 324 is received (start: 16800.1, end: 16806.809999999994, length: 10640). Executed on VM #9 - 339 cloudlets executed.
+16806.809999999994: My_Broker: Cloudlet 97 is received (start: 16800.1, end: 16806.809999999994, length: 10710). Executed on VM #11 - 340 cloudlets executed.
+16808.86666666666: My_Broker: Cloudlet 100 is received (start: 16800.1, end: 16808.86666666666, length: 10520). Executed on VM #6 - 341 cloudlets executed.
+16808.97666666666: My_Broker: Cloudlet 98 is received (start: 16800.1, end: 16808.97666666666, length: 10610). Executed on VM #4 - 342 cloudlets executed.
+16808.97666666666: My_Broker: Cloudlet 99 is received (start: 16800.1, end: 16808.97666666666, length: 10560). Executed on VM #5 - 343 cloudlets executed.
+16808.97666666666: My_Broker: Cloudlet 101 is received (start: 16800.1, end: 16808.97666666666, length: 10590). Executed on VM #7 - 344 cloudlets executed.
+16813.16166666666: My_Broker: Cloudlet 104 is received (start: 16800.1, end: 16813.16166666666, length: 10450). Executed on VM #3 - 345 cloudlets executed.
+16813.324166666658: My_Broker: Cloudlet 202 is received (start: 16800.1, end: 16813.324166666658, length: 10580). Executed on VM #1 - 346 cloudlets executed.
+16813.46166666666: My_Broker: Cloudlet 328 is received (start: 16800.1, end: 16813.46166666666, length: 10690). Executed on VM #2 - 347 cloudlets executed.
+16813.58666666666: My_Broker: Cloudlet 140 is received (start: 16800.1, end: 16813.58666666666, length: 10790). Executed on VM #0 - 348 cloudlets executed.
+17400.1: scheduling => ID00105, ID00106, ID00107, ID00108, ID00109, ID00110, ID00111, ID00203, ID00102, ID00103, ID00175, ID00254, ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+17400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+17400.1: cloudlet #105 will execute on vm #8
+17400.1: cloudlet #106 will execute on vm #9
+17400.1: cloudlet #107 will execute on vm #10
+17400.1: cloudlet #108 will execute on vm #11
+17400.1: cloudlet #109 will execute on vm #4
+17400.1: cloudlet #110 will execute on vm #5
+17400.1: cloudlet #111 will execute on vm #6
+17400.1: cloudlet #203 will execute on vm #7
+17400.1: cloudlet #102 will execute on vm #0
+17400.1: cloudlet #103 will execute on vm #1
+17400.1: cloudlet #175 will execute on vm #2
+17400.1: cloudlet #254 will execute on vm #3
+17406.618749999998: My_Broker: Cloudlet 106 is received (start: 17400.1, end: 17406.618749999998, length: 10430). Executed on VM #9 - 349 cloudlets executed.
+17406.618749999998: My_Broker: Cloudlet 108 is received (start: 17400.1, end: 17406.618749999998, length: 10430). Executed on VM #11 - 350 cloudlets executed.
+17406.728749999995: My_Broker: Cloudlet 105 is received (start: 17400.1, end: 17406.728749999995, length: 10530). Executed on VM #8 - 351 cloudlets executed.
+17406.83874999999: My_Broker: Cloudlet 107 is received (start: 17400.1, end: 17406.83874999999, length: 10720). Executed on VM #10 - 352 cloudlets executed.
+17408.91624999999: My_Broker: Cloudlet 110 is received (start: 17400.1, end: 17408.91624999999, length: 10580). Executed on VM #5 - 353 cloudlets executed.
+17409.026249999988: My_Broker: Cloudlet 109 is received (start: 17400.1, end: 17409.026249999988, length: 10640). Executed on VM #4 - 354 cloudlets executed.
+17409.026249999988: My_Broker: Cloudlet 111 is received (start: 17400.1, end: 17409.026249999988, length: 10610). Executed on VM #6 - 355 cloudlets executed.
+17409.026249999988: My_Broker: Cloudlet 203 is received (start: 17400.1, end: 17409.026249999988, length: 10610). Executed on VM #7 - 356 cloudlets executed.
+17413.162499999988: My_Broker: Cloudlet 254 is received (start: 17400.1, end: 17413.162499999988, length: 10450). Executed on VM #3 - 357 cloudlets executed.
+17413.262499999997: My_Broker: Cloudlet 175 is received (start: 17400.1, end: 17413.262499999997, length: 10530). Executed on VM #2 - 358 cloudlets executed.
+17413.372499999994: My_Broker: Cloudlet 102 is received (start: 17400.1, end: 17413.372499999994, length: 10560). Executed on VM #0 - 359 cloudlets executed.
+17413.48249999999: My_Broker: Cloudlet 103 is received (start: 17400.1, end: 17413.48249999999, length: 10660). Executed on VM #1 - 360 cloudlets executed.
+18000.1: scheduling => ID00339, ID00094, ID00329, ID00095, ID00113, ID00114, ID00115, ID00137, ID00400, ID00122, ID00123, ID00199, ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+18000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+18000.1: cloudlet #339 will execute on vm #8
+18000.1: cloudlet #94 will execute on vm #9
+18000.1: cloudlet #329 will execute on vm #10
+18000.1: cloudlet #95 will execute on vm #11
+18000.1: cloudlet #113 will execute on vm #4
+18000.1: cloudlet #114 will execute on vm #5
+18000.1: cloudlet #115 will execute on vm #6
+18000.1: cloudlet #137 will execute on vm #7
+18000.1: cloudlet #400 will execute on vm #0
+18000.1: cloudlet #122 will execute on vm #1
+18000.1: cloudlet #123 will execute on vm #2
+18000.1: cloudlet #199 will execute on vm #3
+18006.606249999997: My_Broker: Cloudlet 95 is received (start: 18000.1, end: 18006.606249999997, length: 10410). Executed on VM #11 - 361 cloudlets executed.
+18006.70625: My_Broker: Cloudlet 94 is received (start: 18000.1, end: 18006.70625, length: 10570). Executed on VM #9 - 362 cloudlets executed.
+18006.70625: My_Broker: Cloudlet 329 is received (start: 18000.1, end: 18006.70625, length: 10470). Executed on VM #10 - 363 cloudlets executed.
+18006.816249999996: My_Broker: Cloudlet 339 is received (start: 18000.1, end: 18006.816249999996, length: 10580). Executed on VM #8 - 364 cloudlets executed.
+18008.791249999995: My_Broker: Cloudlet 115 is received (start: 18000.1, end: 18008.791249999995, length: 10430). Executed on VM #6 - 365 cloudlets executed.
+18008.90124999999: My_Broker: Cloudlet 137 is received (start: 18000.1, end: 18008.90124999999, length: 10490). Executed on VM #7 - 366 cloudlets executed.
+18009.01124999999: My_Broker: Cloudlet 114 is received (start: 18000.1, end: 18009.01124999999, length: 10570). Executed on VM #5 - 367 cloudlets executed.
+18009.121249999986: My_Broker: Cloudlet 113 is received (start: 18000.1, end: 18009.121249999986, length: 10750). Executed on VM #4 - 368 cloudlets executed.
+18013.237499999985: My_Broker: Cloudlet 400 is received (start: 18000.1, end: 18013.237499999985, length: 10510). Executed on VM #0 - 369 cloudlets executed.
+18013.337499999998: My_Broker: Cloudlet 122 is received (start: 18000.1, end: 18013.337499999998, length: 10590). Executed on VM #1 - 370 cloudlets executed.
+18013.447499999995: My_Broker: Cloudlet 123 is received (start: 18000.1, end: 18013.447499999995, length: 10660). Executed on VM #2 - 371 cloudlets executed.
+18013.447499999995: My_Broker: Cloudlet 199 is received (start: 18000.1, end: 18013.447499999995, length: 10660). Executed on VM #3 - 372 cloudlets executed.
+18600.1: scheduling => ID00210, ID00240, ID00260, ID00116, ID00117, ID00118, ID00119, ID00120, ID00121, ID00176, ID00246, ID00275, ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+18600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+18600.1: cloudlet #210 will execute on vm #8
+18600.1: cloudlet #240 will execute on vm #9
+18600.1: cloudlet #260 will execute on vm #10
+18600.1: cloudlet #116 will execute on vm #11
+18600.1: cloudlet #117 will execute on vm #4
+18600.1: cloudlet #118 will execute on vm #5
+18600.1: cloudlet #119 will execute on vm #6
+18600.1: cloudlet #120 will execute on vm #7
+18600.1: cloudlet #121 will execute on vm #0
+18600.1: cloudlet #176 will execute on vm #1
+18600.1: cloudlet #246 will execute on vm #2
+18600.1: cloudlet #275 will execute on vm #3
+18606.712499999998: My_Broker: Cloudlet 116 is received (start: 18600.1, end: 18606.712499999998, length: 10580). Executed on VM #11 - 373 cloudlets executed.
+18606.822499999995: My_Broker: Cloudlet 210 is received (start: 18600.1, end: 18606.822499999995, length: 10660). Executed on VM #8 - 374 cloudlets executed.
+18606.822499999995: My_Broker: Cloudlet 240 is received (start: 18600.1, end: 18606.822499999995, length: 10630). Executed on VM #9 - 375 cloudlets executed.
+18606.822499999995: My_Broker: Cloudlet 260 is received (start: 18600.1, end: 18606.822499999995, length: 10660). Executed on VM #10 - 376 cloudlets executed.
+18608.816666666662: My_Broker: Cloudlet 120 is received (start: 18600.1, end: 18608.816666666662, length: 10460). Executed on VM #7 - 377 cloudlets executed.
+18608.916666666664: My_Broker: Cloudlet 117 is received (start: 18600.1, end: 18608.916666666664, length: 10580). Executed on VM #4 - 378 cloudlets executed.
+18609.02666666666: My_Broker: Cloudlet 118 is received (start: 18600.1, end: 18609.02666666666, length: 10600). Executed on VM #5 - 379 cloudlets executed.
+18609.02666666666: My_Broker: Cloudlet 119 is received (start: 18600.1, end: 18609.02666666666, length: 10650). Executed on VM #6 - 380 cloudlets executed.
+18613.18666666666: My_Broker: Cloudlet 275 is received (start: 18600.1, end: 18613.18666666666, length: 10470). Executed on VM #3 - 381 cloudlets executed.
+18613.2875: My_Broker: Cloudlet 176 is received (start: 18600.1, end: 18613.2875, length: 10550). Executed on VM #1 - 382 cloudlets executed.
+18613.397499999995: My_Broker: Cloudlet 121 is received (start: 18600.1, end: 18613.397499999995, length: 10630). Executed on VM #0 - 383 cloudlets executed.
+18613.397499999995: My_Broker: Cloudlet 246 is received (start: 18600.1, end: 18613.397499999995, length: 10590). Executed on VM #2 - 384 cloudlets executed.
+19200.1: scheduling => ID00301, ID00322, ID00407, ID00092, ID00093, ID00112, ID00148, ID00192, ID00274, ID00350, ID00082, ID00083, ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+19200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+19200.1: cloudlet #301 will execute on vm #8
+19200.1: cloudlet #322 will execute on vm #9
+19200.1: cloudlet #407 will execute on vm #10
+19200.1: cloudlet #92 will execute on vm #11
+19200.1: cloudlet #93 will execute on vm #4
+19200.1: cloudlet #112 will execute on vm #5
+19200.1: cloudlet #148 will execute on vm #6
+19200.1: cloudlet #192 will execute on vm #7
+19200.1: cloudlet #274 will execute on vm #0
+19200.1: cloudlet #350 will execute on vm #1
+19200.1: cloudlet #82 will execute on vm #2
+19200.1: cloudlet #83 will execute on vm #3
+19206.65625: My_Broker: Cloudlet 322 is received (start: 19200.1, end: 19206.65625, length: 10490). Executed on VM #9 - 385 cloudlets executed.
+19206.766249999997: My_Broker: Cloudlet 301 is received (start: 19200.1, end: 19206.766249999997, length: 10530). Executed on VM #8 - 386 cloudlets executed.
+19206.766249999997: My_Broker: Cloudlet 407 is received (start: 19200.1, end: 19206.766249999997, length: 10580). Executed on VM #10 - 387 cloudlets executed.
+19206.766249999997: My_Broker: Cloudlet 92 is received (start: 19200.1, end: 19206.766249999997, length: 10550). Executed on VM #11 - 388 cloudlets executed.
+19208.866249999995: My_Broker: Cloudlet 148 is received (start: 19200.1, end: 19208.866249999995, length: 10520). Executed on VM #6 - 389 cloudlets executed.
+19208.976249999992: My_Broker: Cloudlet 112 is received (start: 19200.1, end: 19208.976249999992, length: 10600). Executed on VM #5 - 390 cloudlets executed.
+19209.08624999999: My_Broker: Cloudlet 93 is received (start: 19200.1, end: 19209.08624999999, length: 10720). Executed on VM #4 - 391 cloudlets executed.
+19209.08624999999: My_Broker: Cloudlet 192 is received (start: 19200.1, end: 19209.08624999999, length: 10730). Executed on VM #7 - 392 cloudlets executed.
+19213.32499999999: My_Broker: Cloudlet 83 is received (start: 19200.1, end: 19213.32499999999, length: 10580). Executed on VM #3 - 393 cloudlets executed.
+19213.434999999987: My_Broker: Cloudlet 350 is received (start: 19200.1, end: 19213.434999999987, length: 10610). Executed on VM #1 - 394 cloudlets executed.
+19213.434999999987: My_Broker: Cloudlet 82 is received (start: 19200.1, end: 19213.434999999987, length: 10620). Executed on VM #2 - 395 cloudlets executed.
+19213.544999999984: My_Broker: Cloudlet 274 is received (start: 19200.1, end: 19213.544999999984, length: 10720). Executed on VM #0 - 396 cloudlets executed.
+19800.1: scheduling => ID00084, ID00085, ID00130, ID00229, ID00321, ID00369, ID00086, ID00087, ID00088, ID00089, ID00090, ID00091, ID00161, ID00239, ID00325, ID00360
+19800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+19800.1: cloudlet #84 will execute on vm #8
+19800.1: cloudlet #85 will execute on vm #9
+19800.1: cloudlet #130 will execute on vm #10
+19800.1: cloudlet #229 will execute on vm #11
+19800.1: cloudlet #321 will execute on vm #4
+19800.1: cloudlet #369 will execute on vm #5
+19800.1: cloudlet #86 will execute on vm #6
+19800.1: cloudlet #87 will execute on vm #7
+19800.1: cloudlet #88 will execute on vm #0
+19800.1: cloudlet #89 will execute on vm #1
+19800.1: cloudlet #90 will execute on vm #2
+19800.1: cloudlet #91 will execute on vm #3
+19806.731249999997: My_Broker: Cloudlet 84 is received (start: 19800.1, end: 19806.731249999997, length: 10610). Executed on VM #8 - 397 cloudlets executed.
+19806.731249999997: My_Broker: Cloudlet 130 is received (start: 19800.1, end: 19806.731249999997, length: 10610). Executed on VM #10 - 398 cloudlets executed.
+19806.841249999994: My_Broker: Cloudlet 229 is received (start: 19800.1, end: 19806.841249999994, length: 10620). Executed on VM #11 - 399 cloudlets executed.
+19806.95124999999: My_Broker: Cloudlet 85 is received (start: 19800.1, end: 19806.95124999999, length: 10790). Executed on VM #9 - 400 cloudlets executed.
+19808.799583333323: My_Broker: Cloudlet 321 is received (start: 19800.1, end: 19808.799583333323, length: 10440). Executed on VM #4 - 401 cloudlets executed.
+19808.90958333332: My_Broker: Cloudlet 86 is received (start: 19800.1, end: 19808.90958333332, length: 10510). Executed on VM #6 - 402 cloudlets executed.
+19809.019583333316: My_Broker: Cloudlet 369 is received (start: 19800.1, end: 19809.019583333316, length: 10690). Executed on VM #5 - 403 cloudlets executed.
+19809.019583333316: My_Broker: Cloudlet 87 is received (start: 19800.1, end: 19809.019583333316, length: 10680). Executed on VM #7 - 404 cloudlets executed.
+19813.249583333316: My_Broker: Cloudlet 89 is received (start: 19800.1, end: 19813.249583333316, length: 10520). Executed on VM #1 - 405 cloudlets executed.
+19813.249583333316: My_Broker: Cloudlet 90 is received (start: 19800.1, end: 19813.249583333316, length: 10520). Executed on VM #2 - 406 cloudlets executed.
+19813.574583333317: My_Broker: Cloudlet 88 is received (start: 19800.1, end: 19813.574583333317, length: 10780). Executed on VM #0 - 407 cloudlets executed.
+19813.684583333314: My_Broker: Cloudlet 91 is received (start: 19800.1, end: 19813.684583333314, length: 10800). Executed on VM #3 - 408 cloudlets executed.
+20400.1: scheduling => ID00161, ID00239, ID00325, ID00360
+20400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+20400.1: cloudlet #161 will execute on vm #8
+20400.1: cloudlet #239 will execute on vm #9
+20400.1: cloudlet #325 will execute on vm #10
+20400.1: cloudlet #360 will execute on vm #11
+20406.668749999997: My_Broker: Cloudlet 325 is received (start: 20400.1, end: 20406.668749999997, length: 10510). Executed on VM #10 - 409 cloudlets executed.
+20406.778749999994: My_Broker: Cloudlet 239 is received (start: 20400.1, end: 20406.778749999994, length: 10660). Executed on VM #9 - 410 cloudlets executed.
+20406.778749999994: My_Broker: Cloudlet 360 is received (start: 20400.1, end: 20406.778749999994, length: 10540). Executed on VM #11 - 411 cloudlets executed.
+20406.88874999999: My_Broker: Cloudlet 161 is received (start: 20400.1, end: 20406.88874999999, length: 10700). Executed on VM #8 - 412 cloudlets executed.
+21000.1: scheduling => ID00412
+21000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+21000.1: cloudlet #412 will execute on vm #8
+21016.6: My_Broker: Cloudlet 412 is received (start: 21000.1, end: 21016.6, length: 26400). Executed on VM #8 - 413 cloudlets executed.
+21600.1: scheduling => ID00413
+21600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+21600.1: cloudlet #413 will execute on vm #8
+21630.51875: My_Broker: Cloudlet 413 is received (start: 21600.1, end: 21630.51875, length: 48670). Executed on VM #8 - 414 cloudlets executed.
+22200.1: scheduling => ID00414, ID00415, ID00416, ID00417, ID00418, ID00419, ID00420, ID00421, ID00422, ID00423, ID00424, ID00425, ID00426, ID00427, ID00428, ID00429, ID00430, ID00431, ID00432, ID00433, ID00434, ID00435, ID00436, ID00437, ID00438, ID00439, ID00440, ID00441, ID00442, ID00443, ID00444, ID00445, ID00446, ID00447, ID00448, ID00449, ID00450, ID00451, ID00452, ID00453, ID00454, ID00455, ID00456, ID00457, ID00458, ID00459, ID00460, ID00461, ID00462, ID00463, ID00464, ID00465, ID00466, ID00467, ID00468, ID00469, ID00470, ID00471, ID00472, ID00473, ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+22200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+22200.1: cloudlet #414 will execute on vm #8
+22200.1: cloudlet #415 will execute on vm #9
+22200.1: cloudlet #416 will execute on vm #10
+22200.1: cloudlet #417 will execute on vm #11
+22200.1: cloudlet #418 will execute on vm #4
+22200.1: cloudlet #419 will execute on vm #5
+22200.1: cloudlet #420 will execute on vm #6
+22200.1: cloudlet #421 will execute on vm #7
+22200.1: cloudlet #422 will execute on vm #0
+22200.1: cloudlet #423 will execute on vm #1
+22200.1: cloudlet #424 will execute on vm #2
+22200.1: cloudlet #425 will execute on vm #3
+22206.8: My_Broker: Cloudlet 416 is received (start: 22200.1, end: 22206.8, length: 10720). Executed on VM #10 - 415 cloudlets executed.
+22206.909999999996: My_Broker: Cloudlet 414 is received (start: 22200.1, end: 22206.909999999996, length: 10800). Executed on VM #8 - 416 cloudlets executed.
+22207.01875: My_Broker: Cloudlet 415 is received (start: 22200.1, end: 22207.01875, length: 10950). Executed on VM #9 - 417 cloudlets executed.
+22207.01875: My_Broker: Cloudlet 417 is received (start: 22200.1, end: 22207.01875, length: 11070). Executed on VM #11 - 418 cloudlets executed.
+22209.01625: My_Broker: Cloudlet 421 is received (start: 22200.1, end: 22209.01625, length: 10700). Executed on VM #7 - 419 cloudlets executed.
+22209.126249999998: My_Broker: Cloudlet 418 is received (start: 22200.1, end: 22209.126249999998, length: 10760). Executed on VM #4 - 420 cloudlets executed.
+22209.126249999998: My_Broker: Cloudlet 420 is received (start: 22200.1, end: 22209.126249999998, length: 10790). Executed on VM #6 - 421 cloudlets executed.
+22209.236249999994: My_Broker: Cloudlet 419 is received (start: 22200.1, end: 22209.236249999994, length: 10860). Executed on VM #5 - 422 cloudlets executed.
+22213.387499999993: My_Broker: Cloudlet 425 is received (start: 22200.1, end: 22213.387499999993, length: 10630). Executed on VM #3 - 423 cloudlets executed.
+22213.599999999995: My_Broker: Cloudlet 423 is received (start: 22200.1, end: 22213.599999999995, length: 10800). Executed on VM #1 - 424 cloudlets executed.
+22213.709999999992: My_Broker: Cloudlet 422 is received (start: 22200.1, end: 22213.709999999992, length: 10850). Executed on VM #0 - 425 cloudlets executed.
+22213.709999999992: My_Broker: Cloudlet 424 is received (start: 22200.1, end: 22213.709999999992, length: 10870). Executed on VM #2 - 426 cloudlets executed.
+22800.1: scheduling => ID00426, ID00427, ID00428, ID00429, ID00430, ID00431, ID00432, ID00433, ID00434, ID00435, ID00436, ID00437, ID00438, ID00439, ID00440, ID00441, ID00442, ID00443, ID00444, ID00445, ID00446, ID00447, ID00448, ID00449, ID00450, ID00451, ID00452, ID00453, ID00454, ID00455, ID00456, ID00457, ID00458, ID00459, ID00460, ID00461, ID00462, ID00463, ID00464, ID00465, ID00466, ID00467, ID00468, ID00469, ID00470, ID00471, ID00472, ID00473, ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+22800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+22800.1: cloudlet #426 will execute on vm #8
+22800.1: cloudlet #427 will execute on vm #9
+22800.1: cloudlet #428 will execute on vm #10
+22800.1: cloudlet #429 will execute on vm #11
+22800.1: cloudlet #430 will execute on vm #4
+22800.1: cloudlet #431 will execute on vm #5
+22800.1: cloudlet #432 will execute on vm #6
+22800.1: cloudlet #433 will execute on vm #7
+22800.1: cloudlet #434 will execute on vm #0
+22800.1: cloudlet #435 will execute on vm #1
+22800.1: cloudlet #436 will execute on vm #2
+22800.1: cloudlet #437 will execute on vm #3
+22806.806249999998: My_Broker: Cloudlet 429 is received (start: 22800.1, end: 22806.806249999998, length: 10730). Executed on VM #11 - 427 cloudlets executed.
+22806.916249999995: My_Broker: Cloudlet 426 is received (start: 22800.1, end: 22806.916249999995, length: 10850). Executed on VM #8 - 428 cloudlets executed.
+22806.916249999995: My_Broker: Cloudlet 428 is received (start: 22800.1, end: 22806.916249999995, length: 10810). Executed on VM #10 - 429 cloudlets executed.
+22807.02624999999: My_Broker: Cloudlet 427 is received (start: 22800.1, end: 22807.02624999999, length: 10970). Executed on VM #9 - 430 cloudlets executed.
+22808.932916666658: My_Broker: Cloudlet 431 is received (start: 22800.1, end: 22808.932916666658, length: 10600). Executed on VM #5 - 431 cloudlets executed.
+22809.041666666664: My_Broker: Cloudlet 430 is received (start: 22800.1, end: 22809.041666666664, length: 10730). Executed on VM #4 - 432 cloudlets executed.
+22809.15166666666: My_Broker: Cloudlet 433 is received (start: 22800.1, end: 22809.15166666666, length: 10750). Executed on VM #7 - 433 cloudlets executed.
+22809.261666666658: My_Broker: Cloudlet 432 is received (start: 22800.1, end: 22809.261666666658, length: 10890). Executed on VM #6 - 434 cloudlets executed.
+22813.574166666658: My_Broker: Cloudlet 435 is received (start: 22800.1, end: 22813.574166666658, length: 10780). Executed on VM #1 - 435 cloudlets executed.
+22813.684166666655: My_Broker: Cloudlet 436 is received (start: 22800.1, end: 22813.684166666655, length: 10800). Executed on VM #2 - 436 cloudlets executed.
+22813.794166666652: My_Broker: Cloudlet 434 is received (start: 22800.1, end: 22813.794166666652, length: 10880). Executed on VM #0 - 437 cloudlets executed.
+22813.924166666653: My_Broker: Cloudlet 437 is received (start: 22800.1, end: 22813.924166666653, length: 11060). Executed on VM #3 - 438 cloudlets executed.
+23400.1: scheduling => ID00438, ID00439, ID00440, ID00441, ID00442, ID00443, ID00444, ID00445, ID00446, ID00447, ID00448, ID00449, ID00450, ID00451, ID00452, ID00453, ID00454, ID00455, ID00456, ID00457, ID00458, ID00459, ID00460, ID00461, ID00462, ID00463, ID00464, ID00465, ID00466, ID00467, ID00468, ID00469, ID00470, ID00471, ID00472, ID00473, ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+23400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+23400.1: cloudlet #438 will execute on vm #8
+23400.1: cloudlet #439 will execute on vm #9
+23400.1: cloudlet #440 will execute on vm #10
+23400.1: cloudlet #441 will execute on vm #11
+23400.1: cloudlet #442 will execute on vm #4
+23400.1: cloudlet #443 will execute on vm #5
+23400.1: cloudlet #444 will execute on vm #6
+23400.1: cloudlet #445 will execute on vm #7
+23400.1: cloudlet #446 will execute on vm #0
+23400.1: cloudlet #447 will execute on vm #1
+23400.1: cloudlet #448 will execute on vm #2
+23400.1: cloudlet #449 will execute on vm #3
+23406.824999999997: My_Broker: Cloudlet 440 is received (start: 23400.1, end: 23406.824999999997, length: 10760). Executed on VM #10 - 439 cloudlets executed.
+23406.931249999998: My_Broker: Cloudlet 438 is received (start: 23400.1, end: 23406.931249999998, length: 10870). Executed on VM #8 - 440 cloudlets executed.
+23406.931249999998: My_Broker: Cloudlet 439 is received (start: 23400.1, end: 23406.931249999998, length: 10930). Executed on VM #9 - 441 cloudlets executed.
+23407.041249999995: My_Broker: Cloudlet 441 is received (start: 23400.1, end: 23407.041249999995, length: 10980). Executed on VM #11 - 442 cloudlets executed.
+23408.991249999995: My_Broker: Cloudlet 442 is received (start: 23400.1, end: 23408.991249999995, length: 10670). Executed on VM #4 - 443 cloudlets executed.
+23409.101249999992: My_Broker: Cloudlet 443 is received (start: 23400.1, end: 23409.101249999992, length: 10690). Executed on VM #5 - 444 cloudlets executed.
+23409.21124999999: My_Broker: Cloudlet 444 is received (start: 23400.1, end: 23409.21124999999, length: 10880). Executed on VM #6 - 445 cloudlets executed.
+23409.357916666657: My_Broker: Cloudlet 445 is received (start: 23400.1, end: 23409.357916666657, length: 11110). Executed on VM #7 - 446 cloudlets executed.
+23413.161666666656: My_Broker: Cloudlet 448 is received (start: 23400.1, end: 23413.161666666656, length: 10450). Executed on VM #2 - 447 cloudlets executed.
+23413.324166666654: My_Broker: Cloudlet 447 is received (start: 23400.1, end: 23413.324166666654, length: 10580). Executed on VM #1 - 448 cloudlets executed.
+23413.43416666665: My_Broker: Cloudlet 449 is received (start: 23400.1, end: 23413.43416666665, length: 10610). Executed on VM #3 - 449 cloudlets executed.
+23413.674166666653: My_Broker: Cloudlet 446 is received (start: 23400.1, end: 23413.674166666653, length: 10860). Executed on VM #0 - 450 cloudlets executed.
+24000.1: scheduling => ID00450, ID00451, ID00452, ID00453, ID00454, ID00455, ID00456, ID00457, ID00458, ID00459, ID00460, ID00461, ID00462, ID00463, ID00464, ID00465, ID00466, ID00467, ID00468, ID00469, ID00470, ID00471, ID00472, ID00473, ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+24000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+24000.1: cloudlet #450 will execute on vm #8
+24000.1: cloudlet #451 will execute on vm #9
+24000.1: cloudlet #452 will execute on vm #10
+24000.1: cloudlet #453 will execute on vm #11
+24000.1: cloudlet #454 will execute on vm #4
+24000.1: cloudlet #455 will execute on vm #5
+24000.1: cloudlet #456 will execute on vm #6
+24000.1: cloudlet #457 will execute on vm #7
+24000.1: cloudlet #458 will execute on vm #0
+24000.1: cloudlet #459 will execute on vm #1
+24000.1: cloudlet #460 will execute on vm #2
+24000.1: cloudlet #461 will execute on vm #3
+24006.731249999997: My_Broker: Cloudlet 451 is received (start: 24000.1, end: 24006.731249999997, length: 10610). Executed on VM #9 - 451 cloudlets executed.
+24006.841249999994: My_Broker: Cloudlet 450 is received (start: 24000.1, end: 24006.841249999994, length: 10620). Executed on VM #8 - 452 cloudlets executed.
+24006.95124999999: My_Broker: Cloudlet 453 is received (start: 24000.1, end: 24006.95124999999, length: 10890). Executed on VM #11 - 453 cloudlets executed.
+24007.061249999988: My_Broker: Cloudlet 452 is received (start: 24000.1, end: 24007.061249999988, length: 11080). Executed on VM #10 - 454 cloudlets executed.
+24008.841249999987: My_Broker: Cloudlet 455 is received (start: 24000.1, end: 24008.841249999987, length: 10490). Executed on VM #5 - 455 cloudlets executed.
+24008.99124999999: My_Broker: Cloudlet 454 is received (start: 24000.1, end: 24008.99124999999, length: 10670). Executed on VM #4 - 456 cloudlets executed.
+24009.1: My_Broker: Cloudlet 456 is received (start: 24000.1, end: 24009.1, length: 10800). Executed on VM #6 - 457 cloudlets executed.
+24009.209999999995: My_Broker: Cloudlet 457 is received (start: 24000.1, end: 24009.209999999995, length: 10910). Executed on VM #7 - 458 cloudlets executed.
+24013.149999999994: My_Broker: Cloudlet 459 is received (start: 24000.1, end: 24013.149999999994, length: 10440). Executed on VM #1 - 459 cloudlets executed.
+24013.262499999993: My_Broker: Cloudlet 458 is received (start: 24000.1, end: 24013.262499999993, length: 10530). Executed on VM #0 - 460 cloudlets executed.
+24013.37249999999: My_Broker: Cloudlet 461 is received (start: 24000.1, end: 24013.37249999999, length: 10550). Executed on VM #3 - 461 cloudlets executed.
+24013.97499999999: My_Broker: Cloudlet 460 is received (start: 24000.1, end: 24013.97499999999, length: 11100). Executed on VM #2 - 462 cloudlets executed.
+24600.1: scheduling => ID00462, ID00463, ID00464, ID00465, ID00466, ID00467, ID00468, ID00469, ID00470, ID00471, ID00472, ID00473, ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+24600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+24600.1: cloudlet #462 will execute on vm #8
+24600.1: cloudlet #463 will execute on vm #9
+24600.1: cloudlet #464 will execute on vm #10
+24600.1: cloudlet #465 will execute on vm #11
+24600.1: cloudlet #466 will execute on vm #4
+24600.1: cloudlet #467 will execute on vm #5
+24600.1: cloudlet #468 will execute on vm #6
+24600.1: cloudlet #469 will execute on vm #7
+24600.1: cloudlet #470 will execute on vm #0
+24600.1: cloudlet #471 will execute on vm #1
+24600.1: cloudlet #472 will execute on vm #2
+24600.1: cloudlet #473 will execute on vm #3
+24606.71875: My_Broker: Cloudlet 465 is received (start: 24600.1, end: 24606.71875, length: 10590). Executed on VM #11 - 463 cloudlets executed.
+24606.828749999997: My_Broker: Cloudlet 463 is received (start: 24600.1, end: 24606.828749999997, length: 10710). Executed on VM #9 - 464 cloudlets executed.
+24606.938749999994: My_Broker: Cloudlet 462 is received (start: 24600.1, end: 24606.938749999994, length: 10920). Executed on VM #8 - 465 cloudlets executed.
+24606.938749999994: My_Broker: Cloudlet 464 is received (start: 24600.1, end: 24606.938749999994, length: 10920). Executed on VM #10 - 466 cloudlets executed.
+24608.757916666662: My_Broker: Cloudlet 466 is received (start: 24600.1, end: 24608.757916666662, length: 10390). Executed on VM #4 - 467 cloudlets executed.
+24608.874583333327: My_Broker: Cloudlet 468 is received (start: 24600.1, end: 24608.874583333327, length: 10530). Executed on VM #6 - 468 cloudlets executed.
+24608.984583333324: My_Broker: Cloudlet 467 is received (start: 24600.1, end: 24608.984583333324, length: 10570). Executed on VM #5 - 469 cloudlets executed.
+24609.124583333323: My_Broker: Cloudlet 469 is received (start: 24600.1, end: 24609.124583333323, length: 10830). Executed on VM #7 - 470 cloudlets executed.
+24613.237083333323: My_Broker: Cloudlet 471 is received (start: 24600.1, end: 24613.237083333323, length: 10510). Executed on VM #1 - 471 cloudlets executed.
+24613.34708333332: My_Broker: Cloudlet 472 is received (start: 24600.1, end: 24613.34708333332, length: 10550). Executed on VM #2 - 472 cloudlets executed.
+24613.56208333332: My_Broker: Cloudlet 473 is received (start: 24600.1, end: 24613.56208333332, length: 10770). Executed on VM #3 - 473 cloudlets executed.
+24613.6625: My_Broker: Cloudlet 470 is received (start: 24600.1, end: 24613.6625, length: 10850). Executed on VM #0 - 474 cloudlets executed.
+25200.1: scheduling => ID00474, ID00475, ID00476, ID00477, ID00478, ID00479, ID00480, ID00481, ID00482, ID00483, ID00484, ID00485, ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+25200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+25200.1: cloudlet #474 will execute on vm #8
+25200.1: cloudlet #475 will execute on vm #9
+25200.1: cloudlet #476 will execute on vm #10
+25200.1: cloudlet #477 will execute on vm #11
+25200.1: cloudlet #478 will execute on vm #4
+25200.1: cloudlet #479 will execute on vm #5
+25200.1: cloudlet #480 will execute on vm #6
+25200.1: cloudlet #481 will execute on vm #7
+25200.1: cloudlet #482 will execute on vm #0
+25200.1: cloudlet #483 will execute on vm #1
+25200.1: cloudlet #484 will execute on vm #2
+25200.1: cloudlet #485 will execute on vm #3
+25206.731249999997: My_Broker: Cloudlet 476 is received (start: 25200.1, end: 25206.731249999997, length: 10610). Executed on VM #10 - 475 cloudlets executed.
+25206.841249999994: My_Broker: Cloudlet 474 is received (start: 25200.1, end: 25206.841249999994, length: 10710). Executed on VM #8 - 476 cloudlets executed.
+25206.841249999994: My_Broker: Cloudlet 475 is received (start: 25200.1, end: 25206.841249999994, length: 10630). Executed on VM #9 - 477 cloudlets executed.
+25206.841249999994: My_Broker: Cloudlet 477 is received (start: 25200.1, end: 25206.841249999994, length: 10640). Executed on VM #11 - 478 cloudlets executed.
+25208.77458333333: My_Broker: Cloudlet 478 is received (start: 25200.1, end: 25208.77458333333, length: 10410). Executed on VM #4 - 479 cloudlets executed.
+25208.916249999995: My_Broker: Cloudlet 480 is received (start: 25200.1, end: 25208.916249999995, length: 10580). Executed on VM #6 - 480 cloudlets executed.
+25209.074583333328: My_Broker: Cloudlet 479 is received (start: 25200.1, end: 25209.074583333328, length: 10770). Executed on VM #5 - 481 cloudlets executed.
+25209.074583333328: My_Broker: Cloudlet 481 is received (start: 25200.1, end: 25209.074583333328, length: 10770). Executed on VM #7 - 482 cloudlets executed.
+25213.46208333333: My_Broker: Cloudlet 485 is received (start: 25200.1, end: 25213.46208333333, length: 10690). Executed on VM #3 - 483 cloudlets executed.
+25213.5625: My_Broker: Cloudlet 482 is received (start: 25200.1, end: 25213.5625, length: 10770). Executed on VM #0 - 484 cloudlets executed.
+25213.672499999997: My_Broker: Cloudlet 483 is received (start: 25200.1, end: 25213.672499999997, length: 10830). Executed on VM #1 - 485 cloudlets executed.
+25213.782499999994: My_Broker: Cloudlet 484 is received (start: 25200.1, end: 25213.782499999994, length: 10890). Executed on VM #2 - 486 cloudlets executed.
+25800.1: scheduling => ID00486, ID00487, ID00488, ID00489, ID00490, ID00491, ID00492, ID00493, ID00494, ID00495
+25800.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+25800.1: cloudlet #486 will execute on vm #8
+25800.1: cloudlet #487 will execute on vm #9
+25800.1: cloudlet #488 will execute on vm #10
+25800.1: cloudlet #489 will execute on vm #11
+25800.1: cloudlet #490 will execute on vm #4
+25800.1: cloudlet #491 will execute on vm #5
+25800.1: cloudlet #492 will execute on vm #6
+25800.1: cloudlet #493 will execute on vm #7
+25800.1: cloudlet #494 will execute on vm #0
+25800.1: cloudlet #495 will execute on vm #1
+25806.69375: My_Broker: Cloudlet 487 is received (start: 25800.1, end: 25806.69375, length: 10550). Executed on VM #9 - 487 cloudlets executed.
+25806.925: My_Broker: Cloudlet 489 is received (start: 25800.1, end: 25806.925, length: 10920). Executed on VM #11 - 488 cloudlets executed.
+25807.034999999996: My_Broker: Cloudlet 486 is received (start: 25800.1, end: 25807.034999999996, length: 10950). Executed on VM #8 - 489 cloudlets executed.
+25807.034999999996: My_Broker: Cloudlet 488 is received (start: 25800.1, end: 25807.034999999996, length: 10960). Executed on VM #10 - 490 cloudlets executed.
+25808.80833333333: My_Broker: Cloudlet 492 is received (start: 25800.1, end: 25808.80833333333, length: 10450). Executed on VM #6 - 491 cloudlets executed.
+25809.066666666666: My_Broker: Cloudlet 491 is received (start: 25800.1, end: 25809.066666666666, length: 10760). Executed on VM #5 - 492 cloudlets executed.
+25809.176666666663: My_Broker: Cloudlet 490 is received (start: 25800.1, end: 25809.176666666663, length: 10860). Executed on VM #4 - 493 cloudlets executed.
+25809.28666666666: My_Broker: Cloudlet 493 is received (start: 25800.1, end: 25809.28666666666, length: 10910). Executed on VM #7 - 494 cloudlets executed.
+25813.58666666666: My_Broker: Cloudlet 494 is received (start: 25800.1, end: 25813.58666666666, length: 10790). Executed on VM #0 - 495 cloudlets executed.
+25813.696666666656: My_Broker: Cloudlet 495 is received (start: 25800.1, end: 25813.696666666656, length: 10800). Executed on VM #1 - 496 cloudlets executed.
+26400.1: scheduling => ID00496
+26400.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+26400.1: cloudlet #496 will execute on vm #8
+26419.993749999998: My_Broker: Cloudlet 496 is received (start: 26400.1, end: 26419.993749999998, length: 31830). Executed on VM #8 - 497 cloudlets executed.
+27000.1: scheduling => ID00497
+27000.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+27000.1: cloudlet #497 will execute on vm #8
+27031.00625: My_Broker: Cloudlet 497 is received (start: 27000.1, end: 27031.00625, length: 49450). Executed on VM #8 - 498 cloudlets executed.
+27600.1: scheduling => ID00498
+27600.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+27600.1: cloudlet #498 will execute on vm #8
+27609.875: My_Broker: Cloudlet 498 is received (start: 27600.1, end: 27609.875, length: 15640). Executed on VM #8 - 499 cloudlets executed.
+28200.1: scheduling => ID00499
+28200.1: idle vms => 8	9	10	11	4	5	6	7	0	1	2	3	
+28200.1: cloudlet #499 will execute on vm #8
+28200.837499999998: My_Broker: Cloudlet 499 is received (start: 28200.1, end: 28200.837499999998, length: 1180). Executed on VM #8 - 500 cloudlets executed.
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+My_Datacenter is shutting down...
+500 Cloudlets executed.
+My_Broker is shutting down...
+Simulation completed.
+Simulation completed.
+Cloud simulation finished!
